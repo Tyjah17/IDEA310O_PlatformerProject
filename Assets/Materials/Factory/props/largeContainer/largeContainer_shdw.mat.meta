@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f8eef34c001beec35799dd86012ffbfc76e5c691257100551e7422a5128c2255
-size 392
+fileFormatVersion: 2
+guid: c347ba28f21bb744cb0dc50d2bbdf2c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/largeContainer/largeContainer_shdw.mat
+  uploadId: 860064

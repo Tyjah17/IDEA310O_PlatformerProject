@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:534628d07ed3ee75aead57dcdb1c3e714c3a4c2da0d9483230313ffaa8c2982b
-size 386
+fileFormatVersion: 2
+guid: 74b53e1097bcdc344888b964947d6cf0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/platform/plastic_foam_base 1.mat
+  uploadId: 860064

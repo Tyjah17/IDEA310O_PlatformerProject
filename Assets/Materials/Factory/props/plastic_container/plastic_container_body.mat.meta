@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf2b34d46625257d6e3030fc448d54be00dafe4c05d4e52c101ec413e30ff671
-size 398
+fileFormatVersion: 2
+guid: b7b93b1b88b8ff940b60869686aa2a54
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/plastic_container/plastic_container_body.mat
+  uploadId: 860064

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b1f890a5f219576eb0c7927834abfe2afb5e255f05462a748d2543186176072
-size 397
+fileFormatVersion: 2
+guid: 407bc68d299748449bbf7f48ee690f8d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: Version 2.0
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMPro.cginc
+  uploadId: 860064

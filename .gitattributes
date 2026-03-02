@@ -1,4 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc1cda0c4fb773120d3cf5d3d966bd31f4340d3f7eceead6276711b88ba132e4
-size 578
-* filter=lfs diff=lfs merge=lfs -text
+# === Unity Large Binary Assets (Git LFS) ===
+
+# Textures / Images
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
+
+# 3D Models
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+
+# Audio
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+
+# Video
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Unity packages
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
+
+# Binaries
+*.dll filter=lfs diff=lfs merge=lfs -text
+

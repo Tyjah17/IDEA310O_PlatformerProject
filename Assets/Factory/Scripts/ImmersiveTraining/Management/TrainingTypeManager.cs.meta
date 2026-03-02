@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c0b9e2bafa0d600076a7cd21ca8a5d8a4f55e69b9c10e822050d2211c387f4e
-size 269
+fileFormatVersion: 2
+guid: 5f713668c92f8e443b55a8fe3b9c24c6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/Management/TrainingTypeManager.cs
+  uploadId: 860064

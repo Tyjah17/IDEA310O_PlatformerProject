@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:464980e4785d8fd7f96d3e050b667d7600b195af7ce1c5f2ea6d61d3d34470c3
-size 402
+fileFormatVersion: 2
+guid: 0cbf8189007ea2042bac268ea5abc22c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Conveyor/Conveyor_Long.prefab
+  uploadId: 668440

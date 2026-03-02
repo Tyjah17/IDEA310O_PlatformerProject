@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f639762023499c5f01c217756ba17d502443c0e2bd4a177be686b5c4fcba3285
-size 248
+fileFormatVersion: 2
+guid: 82e24caee0030e341b993780c1200a4a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/CamInput.cs
+  uploadId: 860064

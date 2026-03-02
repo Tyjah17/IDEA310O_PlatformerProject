@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b304aea46539f384efdf5eeb6d98a8e3616bf36ca5a0e7bbeb9a14f1c947fd2
-size 385
+fileFormatVersion: 2
+guid: b3baccb7d7d57ee4f9773aff69d28ac4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_stair/wall_door_stairs_glass.mat
+  uploadId: 860064

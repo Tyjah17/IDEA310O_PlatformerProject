@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:142f0e9ce911a26d8c1fe43f1f73b0b7342bafb0584883d8871d08409a00de17
-size 390
+fileFormatVersion: 2
+guid: 9b6f641cf4d425747a2c043eaee6916b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/Wall.prefab
+  uploadId: 668440

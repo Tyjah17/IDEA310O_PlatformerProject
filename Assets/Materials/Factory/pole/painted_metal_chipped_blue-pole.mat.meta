@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:afcca8ca1b289ca8c6642686a27baa5916ca8f228733a929f273d0f42a5278d3
-size 388
+fileFormatVersion: 2
+guid: 73bd809b98ded3445a45870d84f9966b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/pole/painted_metal_chipped_blue-pole.mat
+  uploadId: 860064

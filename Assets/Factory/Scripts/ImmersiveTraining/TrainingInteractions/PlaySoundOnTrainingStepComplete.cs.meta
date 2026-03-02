@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86491609ec452dc936968240c4cbc48d295d01ae4bc754a6be04a08d3bfdb2d7
-size 291
+fileFormatVersion: 2
+guid: cfc9f5c2cda692b4786ef53aabef34fc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/TrainingInteractions/PlaySoundOnTrainingStepComplete.cs
+  uploadId: 860064

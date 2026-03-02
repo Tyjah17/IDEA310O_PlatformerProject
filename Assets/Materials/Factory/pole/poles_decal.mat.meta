@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8de60345c14199596012647f53c7fd8648e80a0b932c80a2b8a164123698c816
-size 368
+fileFormatVersion: 2
+guid: 2427188e74c8de1419d36544c6090cf1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/pole/poles_decal.mat
+  uploadId: 860064

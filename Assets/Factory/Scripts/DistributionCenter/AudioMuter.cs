@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca4659d48d76036ec863307a1a96c9484c6f7dab08e662e9d4401f0d827ff555
-size 500
+using UnityEngine;
+using UnityEngine.UI;
+
+namespace DistributionCenter
+{
+    public class AudioMuter : MonoBehaviour
+    {
+        public Button muteToggleButton;
+        private bool isMuted = false;
+
+        void Start()
+        {
+            if (muteToggleButton != null)
+                muteToggleButton.onClick.AddListener(ToggleAudio);
+        }
+
+        public void ToggleAudio()
+        {
+            isMuted = !isMuted;
+            AudioListener.volume = isMuted ? 0f : 1f;
+        }
+    }
+}

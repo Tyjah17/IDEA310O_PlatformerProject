@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:deb0d8b8013f4fe760b20b76ab7a305bb0d383e43a4d0256421defa6918eaee5
-size 366
+fileFormatVersion: 2
+guid: cb95a9397a7ec894db866f4beefa4e65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/moto/metal_02B.mat
+  uploadId: 860064

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:acca78fff227f240950917386d8da2674feb134cc29137d7177d95eafd27dadf
-size 468
+fileFormatVersion: 2
+guid: dc6d044e41bc7d943964e919cfcc6226
+timeCreated: 1490439567
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Pipes_set_v1_bend_d.prefab
+  uploadId: 642814

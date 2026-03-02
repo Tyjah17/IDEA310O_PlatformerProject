@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5190349d8f6c4afa57fc7b4f4d251eac9a536d8137237beb5d4659c8ef10a092
-size 344
+fileFormatVersion: 2
+guid: 8105016687592461f977c054a80ce2f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Readme.asset
+  uploadId: 860064

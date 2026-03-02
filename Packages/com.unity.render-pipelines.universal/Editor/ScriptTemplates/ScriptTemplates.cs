@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1dda35c014656cc7c79e7f8e664bf6ea7c3e2a13f30d5d5a5928d4f5a8df4e9
-size 881
+namespace UnityEditor.Rendering.Universal
+{
+    internal static class ScriptTemplates
+    {
+        internal const string ScriptTemplatePath = "Packages/com.unity.render-pipelines.universal/Editor/ScriptTemplates/";
+
+        [MenuItem("Assets/Create/Shader/URP Unlit Shader", priority = 0)]
+        static void CreateUnlitURPShader()
+        {
+            ProjectWindowUtil.CreateScriptAssetFromTemplateFile($"{ScriptTemplatePath}UnlitURP.txt", "NewUnlitUniversalRenderPipelineShader.shader");
+        }
+
+        [MenuItem("Assets/Create/Scripting/URP Renderer Feature Script", priority = UnityEngine.Rendering.CoreUtils.Priorities.scriptingPriority)]
+        internal static void CreateNewRendererFeature()
+        {
+            ProjectWindowUtil.CreateScriptAssetFromTemplateFile($"{ScriptTemplatePath}ScriptableRendererFeature.txt", "NewURPRenderFeature.cs");
+        }
+    }
+}

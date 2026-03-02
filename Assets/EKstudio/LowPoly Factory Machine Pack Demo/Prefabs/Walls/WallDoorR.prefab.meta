@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0af90267843fdff7e8d913aef5026389987f09a30b7e165ffb7883fe20436e5f
-size 395
+fileFormatVersion: 2
+guid: 73349a5084371054c88e240d1d5a3b6c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Walls/WallDoorR.prefab
+  uploadId: 668440

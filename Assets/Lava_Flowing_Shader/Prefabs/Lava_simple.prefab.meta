@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba0734417f27136115fe28cd808d0bb78c5a1b84e055da54f72d5c8b5ee5f58b
-size 336
+fileFormatVersion: 2
+guid: d2debcb3c417b07419457484a835eb7d
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33635
+  packageName: Lava Flowing Shader
+  packageVersion: 1.2
+  assetPath: Assets/Lava_Flowing_Shader/Prefabs/Lava_simple.prefab
+  uploadId: 128561

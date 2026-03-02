@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4727b05f8336ebc30ce3d23703da9c83370c4ff5310d9e07163359086a464d22
-size 402
+fileFormatVersion: 2
+guid: 895318b77110cc5419b28a62f0071ec7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_stair/painted_metal_chipped_yellow-wall_stair.mat
+  uploadId: 860064

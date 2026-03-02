@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a3c21a3c5bc5b19aad86ef66223a9d9d9fafb868e7952cf95638d3291ae14969
-size 376
+fileFormatVersion: 2
+guid: 9fa68d6638b56f849913e902903699f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/barrel/barrel_caps.mat
+  uploadId: 860064

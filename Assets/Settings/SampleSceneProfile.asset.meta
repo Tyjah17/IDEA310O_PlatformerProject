@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:790602373773bf952ba16970c7bb6a5d4abcb11584c08c2ae16f8d6055f9e630
-size 383
+fileFormatVersion: 2
+guid: 10fc4df2da32a41aaa32d77bc913491c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/Settings/SampleSceneProfile.asset
+  uploadId: 668440

@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ecb3067526ec83a5f37b1ef4eccaf576145cdfc926644cc1c3d2b1b2b92235cd
-size 623
+using UnityEditor.ShaderGraph;
+
+namespace UnityEditor.Rendering.Universal.ShaderGraph
+{
+    internal static class MeshUnlitIncludes
+    {
+        const string kMeshUnlitPass = "Packages/com.unity.render-pipelines.universal/Editor/2D/ShaderGraph/Includes/MeshUnlitPass.hlsl";
+
+        public static IncludeCollection Unlit = new IncludeCollection
+        {
+            // Pre-graph
+            { CoreIncludes.CorePregraph },
+            { CoreIncludes.ShaderGraphPregraph },
+
+            // Post-graph
+            { CoreIncludes.CorePostgraph },
+            { kMeshUnlitPass, IncludeLocation.Postgraph },
+        };
+    }
+}

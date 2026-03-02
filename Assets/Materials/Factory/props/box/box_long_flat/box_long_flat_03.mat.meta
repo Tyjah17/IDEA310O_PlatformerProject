@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da486d695d6851c8ea57fd447113f045cc9e44f2c19b59767c4e0b733e4ffa5c
-size 392
+fileFormatVersion: 2
+guid: 8b4ea1203c1eecd458daf5a457d3b249
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/box/box_long_flat/box_long_flat_03.mat
+  uploadId: 860064

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f477f93e74cea90d375ddcffb0307ef734233cbe606e9e345888a34419445e16
-size 265
+using UnityEngine;
+
+namespace ImmersiveTraining.Management
+{
+    public class SpawnLocations : Singleton<SpawnLocations>
+    {
+        [SerializeField] private Transform _userSpawnLocation;
+
+        public Transform UserSpawnLocation => _userSpawnLocation;
+    }
+}

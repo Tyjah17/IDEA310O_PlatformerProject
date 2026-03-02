@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e611bef2ff51e25600a5cea6b1522f9bad0c450c1df33a57cc6bea6596870518
-size 1682
+using System;
+
+namespace UnityEngine.Rendering.Universal
+{
+    /// <summary>
+    /// Volume debug settings.
+    /// </summary>
+    [Obsolete("This is not longer supported Please use DebugDisplaySettingsVolume. #from(6000.2)")]
+    public partial class UniversalRenderPipelineVolumeDebugSettings : VolumeDebugSettings<UniversalAdditionalCameraData>
+    {
+        /// <summary>Selected camera volume stack.</summary>
+        public override VolumeStack selectedCameraVolumeStack
+        {
+            get
+            {
+                Camera cam = selectedCamera;
+                if (cam == null)
+                    return null;
+
+                var additionalCameraData = selectedCamera.GetComponent<UniversalAdditionalCameraData>();
+                if (additionalCameraData == null)
+                    return null;
+
+                var stack = additionalCameraData.volumeStack;
+                if (stack != null)
+                    return stack;
+
+                return VolumeManager.instance.stack;
+            }
+        }
+
+        /// <summary>Selected camera volume layer mask.</summary>
+        public override LayerMask selectedCameraLayerMask
+        {
+            get
+            {
+                if (selectedCamera != null && selectedCamera.TryGetComponent<UniversalAdditionalCameraData>(out var selectedAdditionalCameraData))
+                    return selectedAdditionalCameraData.volumeLayerMask;
+
+                return 1; // "Default"
+            }
+        }
+
+        /// <summary>Selected camera volume position.</summary>
+        public override Vector3 selectedCameraPosition => selectedCamera != null ? selectedCamera.transform.position : Vector3.zero;
+    }
+}

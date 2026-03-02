@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:adb96064e30dc6a4aba8f6f571f5da891a5aaaeb981958ea04ba42633b22c8ac
-size 869
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Packages/com.unity.render-pipelines.universal/Editor/2D/LightBatchingDebugger/LightBatchingDebugger.uss?fileID=7433441132597879392&amp;guid=fd5cb3dd3de574f1585db92b6689f86a&amp;type=3#LightBatchingDebugger" />
+
+    <ui:VisualElement class="BatchList BatchContainer">
+
+        <ui:Label name="BatchIndex"         class="BatchList IndexColumn Batch" />
+        <ui:VisualElement name="BatchColor" class="BatchList ColorColumn" />
+        <ui:VisualElement name="LayerNames" class="BatchList NameColumn Batch" />
+
+    </ui:VisualElement>
+
+</ui:UXML>

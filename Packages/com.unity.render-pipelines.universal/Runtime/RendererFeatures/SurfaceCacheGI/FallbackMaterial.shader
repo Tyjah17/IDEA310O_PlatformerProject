@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a540edfacc11c934b27d553a4353a0ed31c6a97fa8182199b5ca05ab50c7c455
-size 735
+Shader "Hidden/SurfaceCache/Fallback"
+{
+    Properties
+    {
+    }
+    SubShader
+    {
+        Tags { "RenderType"="Opaque" }
+        LOD 100
+
+        Pass
+        {
+            Name "META"
+            Tags {"LightMode"="Meta"}
+            Cull Off
+            CGPROGRAM
+
+            #include"UnityStandardMeta.cginc"
+
+            float4 frag_meta2(v2f_meta i): SV_Target
+            {
+                UnityMetaInput o;
+                UNITY_INITIALIZE_OUTPUT(UnityMetaInput, o);
+                o.Albedo = float3(0.5, 0.5, 0.5);
+                o.Emission = 0;
+                return UnityMetaFragment(o);
+            }
+
+            #pragma vertex vert_meta
+            #pragma fragment frag_meta2
+            ENDCG
+        }
+    }
+}

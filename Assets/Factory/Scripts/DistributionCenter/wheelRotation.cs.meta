@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33055ce365f139ea61b7841bfc13356e85bd9d4ffbebf9fcb7ce892775d329da
-size 253
+fileFormatVersion: 2
+guid: 00e6b025f47498f40a5569a2d3cfcd20
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/wheelRotation.cs
+  uploadId: 860064

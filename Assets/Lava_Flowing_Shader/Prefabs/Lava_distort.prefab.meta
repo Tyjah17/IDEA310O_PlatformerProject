@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5454eeaceb2e9ff402f6229156ef5a9ecf65df505143a60376fbdd5c1d25e518
-size 337
+fileFormatVersion: 2
+guid: 7c9fb993626aaf8488be64eb9feadbbc
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33635
+  packageName: Lava Flowing Shader
+  packageVersion: 1.2
+  assetPath: Assets/Lava_Flowing_Shader/Prefabs/Lava_distort.prefab
+  uploadId: 128561

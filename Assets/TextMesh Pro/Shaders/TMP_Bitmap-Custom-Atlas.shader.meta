@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:059bd2726b332119cb41d554141cc278523e251ff5c88f2534d456600c2bb09b
-size 405
+fileFormatVersion: 2
+guid: 48bb5f55d8670e349b6e614913f9d910
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  uploadId: 860064

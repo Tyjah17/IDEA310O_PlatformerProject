@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6375d4354fc970a3a336335e75dac14c983faaf646ce2ede2f93d23efbd3f94a
-size 1055
+using System;
+using UnityEngine;
+using UnityEditor.SceneTemplate;
+using UnityEngine.SceneManagement;
+using System.Collections.Generic;
+using UnityEditor.Rendering.Utilities;
+
+namespace UnityEditor.Rendering.Universal
+{
+    class URPBasicScenePipeline : ISceneTemplatePipeline
+    {
+        void ISceneTemplatePipeline.AfterTemplateInstantiation(SceneTemplateAsset sceneTemplateAsset, Scene scene, bool isAdditive, string sceneName)
+        {
+            //To avoid problematic behavior and warnings in the future, let's remove all missing scripts monobehaviors. 
+            foreach (GameObject go in Resources.FindObjectsOfTypeAll<GameObject>())
+                GameObjectUtility.RemoveMonoBehavioursWithMissingScript(go);
+        }
+
+        void ISceneTemplatePipeline.BeforeTemplateInstantiation(SceneTemplateAsset sceneTemplateAsset, bool isAdditive, string sceneName)
+        {
+
+        }
+
+        bool ISceneTemplatePipeline.IsValidTemplateForInstantiation(SceneTemplateAsset sceneTemplateAsset)
+        {
+            return true;
+        }
+    }
+}

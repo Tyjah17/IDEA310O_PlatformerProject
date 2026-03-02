@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62f11b23831a7ddaf30e6faf79189deefd267ad3483e5e8df183425af8ea10b4
-size 455
+fileFormatVersion: 2
+guid: 666d0826bcae23540ad89fb826867c32
+timeCreated: 1488984614
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Textures/Transparent/Lattice/Lattice_v1/Lattice_v1.mat
+  uploadId: 642814

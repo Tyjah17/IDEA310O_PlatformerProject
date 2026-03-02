@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c933955e1c91c248a4c2431df533d5b2a9f402173e2bad6a8e62d1cd46b8f4f6
-size 259
+fileFormatVersion: 2
+guid: 9c3d2bb689a8ff14a9b6df2c53d56e8f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/UVChannelController.cs
+  uploadId: 860064

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c5af972b71e54c30fc269bd49783cece54261be1f905675d225190a06c392d7
-size 254
+fileFormatVersion: 2
+guid: 84e76d445df3c00448f0d04a4b22f75d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/CameraSwitcher.cs
+  uploadId: 860064

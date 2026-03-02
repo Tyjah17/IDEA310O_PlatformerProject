@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9989468c08e5c2dff7001ccdcf028d60116eb8e312d06a3b5621982e50f7e701
-size 392
+fileFormatVersion: 2
+guid: 128e987d567d4e2c824d754223b3f3b0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+  uploadId: 860064

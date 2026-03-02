@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6593497ae87f7b08b4f662418a06ec34505ba7e56fea2f5d9361fc0dfd27630f
-size 465
+fileFormatVersion: 2
+guid: 58d97d456aead63499ac7d5316541f78
+timeCreated: 1490442036
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Cargo_container_v1_LD2close.prefab
+  uploadId: 642814

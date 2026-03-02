@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3a154afa21279090d25d8d08c2c532f96457031cde7753db258cc247647dccf1
-size 380
+fileFormatVersion: 2
+guid: 71b19c889f1856b408eab460bbfa3d0c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/moto/light_unityFX-light_top.mat
+  uploadId: 860064

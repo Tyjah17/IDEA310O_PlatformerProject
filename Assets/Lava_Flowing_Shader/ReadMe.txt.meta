@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a13c3776542535f415390b32a90af79db9906a089c046b3a960c9babd35879c
-size 318
+fileFormatVersion: 2
+guid: 85580c0999f852645a0f8bf54b7116bb
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33635
+  packageName: Lava Flowing Shader
+  packageVersion: 1.2
+  assetPath: Assets/Lava_Flowing_Shader/ReadMe.txt
+  uploadId: 128561

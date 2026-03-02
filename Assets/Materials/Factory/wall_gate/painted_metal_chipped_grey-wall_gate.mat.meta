@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b610d748092523c29dba24db5018ba4b6ad302170d2d9f638bad94589b3cacf
-size 398
+fileFormatVersion: 2
+guid: 74477899a8ee2df49985864b2654c8bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_gate/painted_metal_chipped_grey-wall_gate.mat
+  uploadId: 860064

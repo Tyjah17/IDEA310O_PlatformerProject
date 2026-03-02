@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a229173f2d6898afbabe36c0dba4f427308ce01dc02b732580631dd35030bb50
-size 388
+fileFormatVersion: 2
+guid: d0eabef0bdc8999468118e9b64446c56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/floor/smoothed_cast_concrete_type_02.mat
+  uploadId: 860064

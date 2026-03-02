@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb0b2cbf32fd13b920afdcff0af628e5ff6b030a7e915bae1129245516f34582
-size 413
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class MainMenu : MonoBehaviour
+{
+    public void PlayLevel1()
+    {
+        SceneManager.LoadScene("Level1");
+    }
+    public void PlayLevel2()
+    {
+        SceneManager.LoadScene("Level2");
+    }
+    public void PlayLevel3()
+    {
+        SceneManager.LoadScene("Level3");
+    }
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
+}

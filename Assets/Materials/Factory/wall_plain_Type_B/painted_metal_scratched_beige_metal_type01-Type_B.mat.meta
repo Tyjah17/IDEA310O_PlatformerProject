@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b12e2f0d960b3d3e5b322c6ed6f2ecc3f55bb6719224a1b9a8ea6aa4343da5d7
-size 419
+fileFormatVersion: 2
+guid: b143e7efe84a1cd41a478614e36339c5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_plain_Type_B/painted_metal_scratched_beige_metal_type01-Type_B.mat
+  uploadId: 860064

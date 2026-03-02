@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:efb41fed48964136a0dcd54b09a721f703f4fac2baa1553546369c3536c86a25
-size 382
+fileFormatVersion: 2
+guid: cd5df447cac88b44db3ee70d92f5c492
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_plain_Type_B/glass-Type_B.mat
+  uploadId: 860064

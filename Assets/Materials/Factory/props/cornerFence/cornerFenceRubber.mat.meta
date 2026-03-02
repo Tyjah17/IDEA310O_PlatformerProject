@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2640f5957ea3219907bc3007cfef99df3be1de9bb63879d2d5df45bea4ee4d6f
-size 387
+fileFormatVersion: 2
+guid: 55c46d945fe168647b1f1a5b5ae9d563
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/cornerFence/cornerFenceRubber.mat
+  uploadId: 860064

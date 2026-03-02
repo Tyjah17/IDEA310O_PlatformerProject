@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b92df83c1f5d54b02e39a4d04801c87c041112dcb1245c4fb2e6e9aeaed9651e
-size 607
+using UnityEngine;
+
+namespace ImmersiveTraining.Management
+{
+    public class TrainingTimeOutHandler : MonoBehaviour
+    {
+        public GameObject timeOutPanel;
+        public GameObject instructionPanel;
+
+        private void Start()
+        {
+            EventManager.StartListening(EventTypes.ALLOWED_TIME_EXPIRED, HandleTrainingTimeExpiration);
+        }
+
+        private void HandleTrainingTimeExpiration(GameObject arg0)
+        {
+            timeOutPanel.SetActive(true);
+            instructionPanel.SetActive(false); //close it just to be sure, may need to reset its toggle too
+        }
+    }
+}

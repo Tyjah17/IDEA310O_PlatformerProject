@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e86e3910885e54b4a613536a23daa193411ec5c8b45d4e19b27077dadf6c5ba7
-size 378
+fileFormatVersion: 2
+guid: c1b0ed42d9fb323499488a0532b3412d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/barrier/barrier_shdw.mat
+  uploadId: 860064

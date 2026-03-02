@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8366607e79b3ce697326b55e6e8b8c9499c0b262ea4d3ff98905ce6e7562e95
-size 1324
+using UnityEditor.Rendering.Universal;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.Universal;
+
+namespace UnityEditor.Rendering
+{
+    class OnTilePostProcessResourceStripper : IRenderPipelineGraphicsSettingsStripper<OnTilePostProcessResource>
+    {
+        public bool active => URPBuildData.instance.buildingPlayerForUniversalRenderPipeline;
+
+        public bool CanRemoveSettings(OnTilePostProcessResource resources)
+        {
+            if (GraphicsSettings.TryGetRenderPipelineSettings<URPShaderStrippingSetting>(out var urpShaderStrippingSettings) && !urpShaderStrippingSettings.stripUnusedVariants)
+                return false;
+            
+            foreach (var urpAssetForBuild in URPBuildData.instance.renderPipelineAssets)
+            {
+                foreach (var rendererData in urpAssetForBuild.m_RendererDataList)
+                {
+                    if (rendererData is not UniversalRendererData) 
+                        continue;
+                    
+                    foreach (var rendererFeature in rendererData.rendererFeatures)
+                    {
+                        if (rendererFeature is OnTilePostProcessFeature { isActive: true })
+                            return false;
+                    }
+                }
+            }
+
+            return true;
+        }
+    }
+}

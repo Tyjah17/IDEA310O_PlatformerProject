@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6be78f85d3e1464204bbbf529ca050fb87e1f14ecccbc79d01a780d7120d352
-size 261
+fileFormatVersion: 2
+guid: 52baf60e39315c3468485898ae3296d6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/Management/TimeManager.cs
+  uploadId: 860064

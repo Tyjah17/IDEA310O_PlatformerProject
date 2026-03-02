@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3168713b8c632b23bd21d526941d2251c9faef65e4c4767805aa0329d09371de
-size 1170
+using System;
+using UnityEditor.ShaderGraph;
+using UnityEngine.Rendering;
+
+namespace UnityEditor.Rendering.Universal.ShaderGraph
+{
+    internal static class CreateTerrainShaderGraph
+    {
+        [MenuItem("Assets/Create/Shader Graph/URP/Terrain Lit Shader Graph", priority = CoreUtils.Sections.section4 + CoreUtils.Priorities.assetsCreateShaderMenuPriority + 2)]
+        public static void CreateTerrainGraph()
+        {
+            var target = (UniversalTarget)Activator.CreateInstance(typeof(UniversalTarget));
+            target.TrySetActiveSubTarget(typeof(UniversalTerrainLitSubTarget));
+
+            var blockDescriptors = new[]
+            {
+                BlockFields.VertexDescription.Position,
+                BlockFields.SurfaceDescription.BaseColor,
+                BlockFields.SurfaceDescription.NormalTS,
+                BlockFields.SurfaceDescription.Metallic,
+                BlockFields.SurfaceDescription.Emission,
+                BlockFields.SurfaceDescription.Smoothness,
+                BlockFields.SurfaceDescription.Occlusion,
+            };
+
+            GraphUtil.CreateNewGraphWithOutputs(new[] {target}, blockDescriptors);
+        }
+    }
+}

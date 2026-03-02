@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ad8f68ae3f752b8eedb691af850e7aaf0096c9d29fd56963d3a8c6bc0101bd3
-size 738
+using UnityEngine;
+
+namespace DistributionCenter
+{
+    public class UVChannelSwitcher : MonoBehaviour
+    {
+        public Renderer targetRenderer;
+        public int uvChannel = 0;
+
+        void Start()
+        {
+            if (targetRenderer == null)
+                return;
+
+            targetRenderer.material = new Material(targetRenderer.material);
+
+            UpdateUVChannel();
+        }
+
+        public void UpdateUVChannel()
+        {
+            if (targetRenderer != null)
+            {
+                targetRenderer.material.SetFloat("_UVChannel", uvChannel);
+            }
+        }
+
+        public void SetUVChannel(int channel)
+        {
+            uvChannel = channel;
+            UpdateUVChannel();
+        }
+    }
+}

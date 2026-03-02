@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a7d32f42808e7cc01258fea15f3c50f5e7a9a5e993d689fae7edec4141585a6
-size 1955
+using UnityEditor.ShaderGraph;
+
+namespace UnityEditor.Rendering.Universal.ShaderGraph
+{
+    internal static class UniversalMeshLitInfo
+    {
+        public static class Includes
+        {
+            const string k2DNormal = "Packages/com.unity.render-pipelines.universal/Shaders/2D/Include/NormalsRenderingShared.hlsl";
+            const string kMeshLitPass = "Packages/com.unity.render-pipelines.universal/Editor/2D/ShaderGraph/Includes/Mesh2DLitPass.hlsl";
+            const string kMeshNormalPass = "Packages/com.unity.render-pipelines.universal/Editor/2D/ShaderGraph/Includes/MeshNormalPass.hlsl";
+            const string kMeshForwardPass = "Packages/com.unity.render-pipelines.universal/Editor/2D/ShaderGraph/Includes/SpriteForwardPass.hlsl";
+
+            public static IncludeCollection Lit = new IncludeCollection
+            {
+                // Pre-graph
+                { CoreIncludes.CorePregraph },
+                { CoreIncludes.ShaderGraphPregraph },
+
+                // Post-graph
+                { CoreIncludes.CorePostgraph },
+                { kMeshLitPass, IncludeLocation.Postgraph },
+            };
+
+            public static IncludeCollection Normal = new IncludeCollection
+            {
+                // Pre-graph
+                { CoreIncludes.CorePregraph },
+                { CoreIncludes.ShaderGraphPregraph },
+                { k2DNormal, IncludeLocation.Pregraph },
+
+                // Post-graph
+                { CoreIncludes.CorePostgraph },
+                { kMeshNormalPass, IncludeLocation.Postgraph },
+            };
+
+            public static IncludeCollection Forward = new IncludeCollection
+            {
+                // Pre-graph
+                { CoreIncludes.CorePregraph },
+                { CoreIncludes.ShaderGraphPregraph },
+
+                // Post-graph
+                { CoreIncludes.CorePostgraph },
+                { kMeshForwardPass, IncludeLocation.Postgraph },
+            };
+        }
+    }
+}

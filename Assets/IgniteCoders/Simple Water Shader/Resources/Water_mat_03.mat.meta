@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6045098c9d72592ba5449d4ff0f20238560cb11fef39f5a591a1afca178e9bb
-size 406
+fileFormatVersion: 2
+guid: 19ac4fcfcf42b4344a6c7d97a5cd61fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191449
+  packageName: Simple Water Shader URP
+  packageVersion: 1.0.0
+  assetPath: Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_03.mat
+  uploadId: 422776

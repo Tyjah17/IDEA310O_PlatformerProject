@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c79cb5c91423e8191a88ab8424449bff7d25de9519439b59e1a0a5bfde58b549
-size 1231
+using System.Collections.Generic;
+using ImmersiveTraining.Management;
+using UnityEngine;
+
+namespace ImmersiveTraining.StateHandling
+{
+    public class StateData : MonoBehaviour
+    {
+        [SerializeField] private string _stepName;
+        [TextArea]
+        [SerializeField] private string _infoMessage;
+
+        protected IUseTimer timer;
+
+        public string StateName { get => string.IsNullOrEmpty(_stepName) ? gameObject.name : _stepName; set => _stepName = value; }
+
+        public virtual void ActivateState(List<GameObject> _activatedByStateObjects)
+        {
+            timer = this as IUseTimer;
+            if (timer != null)
+            {
+                EventManager.TriggerEvent(EventTypes.START_TIMER, gameObject);
+            }
+        }
+
+        public virtual void DeactivateState()
+        {
+            timer = this as IUseTimer;
+            if (timer != null)
+            {
+                EventManager.TriggerEvent(EventTypes.STOP_TIMER, gameObject);
+            }
+        }
+
+        public string GetInfoMessage()
+        {
+            return _infoMessage;
+        }
+
+        public virtual bool MayObjectBeActiveInThisState(GameObject targetObject)
+        {
+            return false;
+        }
+    }
+}

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4e3fe7918189bffdbb60cd8677cb3c10558faee410acbd5ccd612daf8cc2579
-size 380
+fileFormatVersion: 2
+guid: c074ae2f9626c1e4a8d3304463cf0909
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/kone/Kone_light_orange.mat
+  uploadId: 860064

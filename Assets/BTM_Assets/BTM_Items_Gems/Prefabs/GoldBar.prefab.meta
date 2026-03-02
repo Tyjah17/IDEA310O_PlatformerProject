@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:549f5c20cc40e179d39335a357402d29b92e3f2ed363583fd9a20376e9e34193
-size 392
+fileFormatVersion: 2
+guid: 744d1ae3c9575e3499e29a4b6f9f41c7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73764
+  packageName: Simple Gems and Items Ultimate Animated Customizable Pack
+  packageVersion: 1.3
+  assetPath: Assets/BTM_Assets/BTM_Items_Gems/Prefabs/GoldBar.prefab
+  uploadId: 739389

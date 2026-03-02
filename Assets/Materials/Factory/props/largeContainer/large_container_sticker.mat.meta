@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb0bfce27db27d06dbb86f85fac13cde6ce1be551c488fb32ddbc3a24777aab5
-size 396
+fileFormatVersion: 2
+guid: 3c60f528d549963448f2a0beb9bee6b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/largeContainer/large_container_sticker.mat
+  uploadId: 860064

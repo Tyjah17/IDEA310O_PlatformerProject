@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17583c333a59334c9b3e8a5fbda8e53b1ce96f9d87dbda6ee5d4b86339c6c8ee
-size 382
+fileFormatVersion: 2
+guid: 2011c554ed329364cabf81ea2fe59563
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/trailer/smeared_cement-trailer.mat
+  uploadId: 860064

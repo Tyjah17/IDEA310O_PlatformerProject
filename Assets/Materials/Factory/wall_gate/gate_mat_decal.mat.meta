@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95f9481ba15634b3569faf0341bbd281366a32642f0c9aee8aa4fca4e4c039db
-size 376
+fileFormatVersion: 2
+guid: f7633581da0efe941854e9d70b69152f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_gate/gate_mat_decal.mat
+  uploadId: 860064

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cabeda43770e087b8c286c46ef700d7d9819692d8b25ce2b4e11e892ac6dfbf2
-size 329
+fileFormatVersion: 2
+guid: 4b5197d2a37c07c4ea690670a25a282d
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33635
+  packageName: Lava Flowing Shader
+  packageVersion: 1.2
+  assetPath: Assets/Lava_Flowing_Shader/Scenes/FLowingLava.unity
+  uploadId: 128561

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c969250adf68da0a1ede06405bd80bcc7ba92b39a5fd775a3cd26d5b12a6ee3e
-size 376
+#ifndef UNITY_DECLARE_RENDERING_LAYER_TEXTURE_INCLUDED
+#define UNITY_DECLARE_RENDERING_LAYER_TEXTURE_INCLUDED
+#include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"
+
+TYPED_TEXTURE2D_X(uint4, _CameraRenderingLayersTexture);
+
+uint LoadSceneRenderingLayer(uint2 uvCoord)
+{
+    return LOAD_TEXTURE2D_X(_CameraRenderingLayersTexture, uvCoord).r;
+}
+#endif

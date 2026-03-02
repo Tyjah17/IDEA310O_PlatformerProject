@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6719e40553b988d6347598de683428a03d34362eb5d8734284cd0f2a5a0bcd05
-size 488
+﻿using UnityEngine;
+using System.Collections;
+
+public class ScrollingUVs_Layers : MonoBehaviour 
+{
+	//public int materialIndex = 0;
+	public Vector2 uvAnimationRate = new Vector2( 1.0f, 0.0f );
+	public string textureName = "_MainTex";
+	
+	Vector2 uvOffset = Vector2.zero;
+	
+	void LateUpdate() 
+	{
+		uvOffset += ( uvAnimationRate * Time.deltaTime );
+		if( GetComponent<Renderer>().enabled )
+		{
+			GetComponent<Renderer>().sharedMaterial.SetTextureOffset( textureName, uvOffset );
+		}
+	}
+}

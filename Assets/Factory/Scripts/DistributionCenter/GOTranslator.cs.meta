@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0db55c4dd25e08896f42e60c4557cdcff4377ac72e443047aa37f87a47126165
-size 252
+fileFormatVersion: 2
+guid: b26c53ff4533e70489f3c3f69bb917cc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/GOTranslator.cs
+  uploadId: 860064

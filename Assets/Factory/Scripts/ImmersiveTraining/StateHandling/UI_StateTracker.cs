@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:229475ee59fdb16642e6dfd7ffeeb20544cf7d7f4a2bcd786736b5935898d67c
-size 665
+using ImmersiveTraining.Management;
+using TMPro;
+using UnityEngine;
+
+namespace ImmersiveTraining.StateHandling
+{
+    public class UI_StateTracker : MonoBehaviour
+    {
+        [SerializeField] private StateManager _stateManager;
+        [SerializeField] private TMP_Text _stateTrackerText;
+
+        public void Start()
+        {
+            EventManager.StartListening(EventTypes.STATE_CHANGED, UpdateStateTrackerUIText);
+        
+            UpdateStateTrackerUIText(this.gameObject);
+        }
+
+        private void UpdateStateTrackerUIText(GameObject invoker)
+        {
+            _stateTrackerText.text = _stateManager.GetStateTrackerText();
+        }
+    }
+}

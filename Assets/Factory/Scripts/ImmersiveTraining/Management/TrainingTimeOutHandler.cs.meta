@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0df3be30cbb9c6dd8a5d04be5798fa3016b66d51dc2bffa343dd7b1dfee1a096
-size 272
+fileFormatVersion: 2
+guid: 1eaa5f5907ad63b4896bc0a07663ffbc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/Management/TrainingTimeOutHandler.cs
+  uploadId: 860064

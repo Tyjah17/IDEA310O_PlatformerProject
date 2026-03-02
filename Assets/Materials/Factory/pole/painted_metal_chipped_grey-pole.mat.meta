@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b25cc6bb5c01e51aa9ec1b2136df0dbf9344fee7e514ab6865fa9fb1452219b
-size 388
+fileFormatVersion: 2
+guid: 876ef82d3c6d6e444903886ba4b4bf94
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/pole/painted_metal_chipped_grey-pole.mat
+  uploadId: 860064

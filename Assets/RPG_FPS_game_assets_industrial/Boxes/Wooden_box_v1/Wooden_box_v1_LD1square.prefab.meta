@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88fb007328c0cbf77fca5abe282790c7c03dc11f92853c5a5aa5eb58b3868537
-size 451
+fileFormatVersion: 2
+guid: 6857ff1d3761e21479727f3b27cc8f68
+timeCreated: 1490441827
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD1square.prefab
+  uploadId: 642814

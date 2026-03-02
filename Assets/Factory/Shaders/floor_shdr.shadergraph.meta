@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca8d99626a9f8741816f3b83102e2921635c840f978498662cfec8bdd2f7eed7
-size 465
+fileFormatVersion: 2
+guid: 98eaf31a335e6b54ea113ebd1813f867
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Shaders/floor_shdr.shadergraph
+  uploadId: 860064

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70cd25551193dd8630725f5fcb92d07b6461a107d4286a7ef0dc7a71fae0393f
-size 372
+fileFormatVersion: 2
+guid: f5c027e581543cf4c92a1d10aa45162a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_gate/bulb_outer.mat
+  uploadId: 860064

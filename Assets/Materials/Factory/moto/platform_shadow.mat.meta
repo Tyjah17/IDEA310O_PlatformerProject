@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96888f07bcf98bd8b94111c8633c19f43d7f2f6e0fe8cb48910009dead03308d
-size 372
+fileFormatVersion: 2
+guid: 622b1a54048c20b4c94d9651bc73c53f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/moto/platform_shadow.mat
+  uploadId: 860064

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f47f90f70b380e9408fac119c71e0f201a9568aebfa48615fd0cfb3274feccc5
-size 453
+fileFormatVersion: 2
+guid: 469d8033d18450a4ba5415df152e330b
+timeCreated: 1506562255
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Particles/Smoke/Smoke_v1/Source/New
+    Material.mat
+  uploadId: 642814

@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c04fc9278fd0685425f5cc45e3b3dd9290e0001c95f032829252dafcc152e4f4
-size 651
+fileFormatVersion: 2
+guid: b8f8267ef8803714ba059db1f2b74309
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zilla Slab
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Fonts/ZillaSlab-Medium.ttf
+  uploadId: 860064

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f779adbe3a50dc324cb67e13f7d6011e52ce302faf556aa695ee13293b813238
-size 557
+using System.Runtime.CompilerServices;
+
+[assembly: InternalsVisibleTo("Universal2DGraphicsTests")]
+[assembly: InternalsVisibleTo("Universal2DEditorTests")]
+[assembly: InternalsVisibleTo("Unity.RenderPipelines.Universal.Editor")]
+[assembly: InternalsVisibleTo("Unity.RenderPipelines.Universal.2D.Editor.Overrides")]
+[assembly: InternalsVisibleTo("Unity.RenderPipelines.Universal.Editor.Tests")]
+[assembly: InternalsVisibleTo("Unity.RenderPipelines.Universal.Runtime.Tests")]
+[assembly: InternalsVisibleTo("Unity.GraphicTests.Performance.Universal.Runtime")]

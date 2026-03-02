@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7be3e37a30fe12d90e176aa69cd754bfca5a4988d8207cdca10edd35c67e10ea
-size 379
+fileFormatVersion: 2
+guid: 686013ef36fd8064fbc67b6c50c19c97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/kone/Kone_light_white.mat
+  uploadId: 860064

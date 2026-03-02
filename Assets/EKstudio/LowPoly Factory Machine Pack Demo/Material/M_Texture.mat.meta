@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0e176907cf3b9a35c16abe061c15718ebb112eaff5d8472b89dfd858bc06306f
-size 421
+fileFormatVersion: 2
+guid: facb130459210ef479fd51615e963dc7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Texture.mat
+  uploadId: 668440

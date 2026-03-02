@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a95532c56fbea2e9c00da05262ece17562a48c9578625b5282851b68f7661500
-size 386
+fileFormatVersion: 2
+guid: c56f14fda97e1994f851fbd127b39658
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_gate/smooth_plaster-wall_gate.mat
+  uploadId: 860064

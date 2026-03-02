@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4acb137a6517164ef39530dbfce5812545071ba207c22315ed64c0bcc897f19b
-size 249
+fileFormatVersion: 2
+guid: dc28d2c62ac4f544ebb3339adb6c72b7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/UI_Toggle.cs
+  uploadId: 860064

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da6d9c5cf9530ccaff203af24ccc087aa3e8dfd3180d77409c58b4a20b2049ad
-size 378
+
+void SplatmapFinalColor(inout half4 color, half fogCoord)
+{
+    color.rgb *= color.a;
+
+#ifndef TERRAIN_GBUFFER // Technically we don't need fogCoord, but it is still passed from the vertex shader.
+    #ifdef TERRAIN_SPLAT_ADDPASS
+        color.rgb = MixFogColor(color.rgb, half3(0,0,0), fogCoord);
+    #else
+        color.rgb = MixFog(color.rgb, fogCoord);
+    #endif
+#endif
+}

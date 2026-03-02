@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:251d2696cdc4f6433c2b4557441e29ed91743a4d379ae16e3c10e43cd08a2dba
-size 401
+fileFormatVersion: 2
+guid: ad8f4f41a3e6ce44e8affea1a6f20e12
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/charger_simple/smooth_plaster-wall_charger_simple.mat
+  uploadId: 860064

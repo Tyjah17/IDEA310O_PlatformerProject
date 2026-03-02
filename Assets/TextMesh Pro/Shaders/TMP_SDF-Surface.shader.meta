@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c193e908277f0b0ef4e17ea041d3c9d4375d8f08b12fd3ce20ee0af5a36e8c5
-size 397
+fileFormatVersion: 2
+guid: f7ada0af4f174f0694ca6a487b8f543d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+  uploadId: 860064

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3caf876cfcdbaaf6e9caf32875d7a97e372f147e67cb1cfade8ae437991d4584
-size 460
+fileFormatVersion: 2
+guid: 725065c3e256d624785aad798a8d0762
+timeCreated: 1488375646
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v1.mat
+  uploadId: 642814

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9f4094abe6fc4d0ec109b042d8e7fde5a60e5ef4b485c86a5b47ee85553c859
-size 399
+fileFormatVersion: 2
+guid: 6656dcc5f01119848861032461b5aaf3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/PaletteWooden.prefab
+  uploadId: 668440

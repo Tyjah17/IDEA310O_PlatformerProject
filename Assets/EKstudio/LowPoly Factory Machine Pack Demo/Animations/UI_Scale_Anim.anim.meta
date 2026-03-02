@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f24232c97084646e64797364167dcf9febd8a941feca0a47075a0b689ad960a7
-size 428
+fileFormatVersion: 2
+guid: b27a68cc117a7bc45adcbaab8fd8d24a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/UI_Scale_Anim.anim
+  uploadId: 668440

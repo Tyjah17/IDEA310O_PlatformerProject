@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1af4b7b5deaa00699bb63267fb95a37f205dde518726e367998c0b3e385a960
-size 437
+fileFormatVersion: 2
+guid: 86b9460a9415e6746990f17338b0983a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73764
+  packageName: Simple Gems and Items Ultimate Animated Customizable Pack
+  packageVersion: 1.3
+  assetPath: Assets/BTM_Assets/BTM_Items_Gems/Materials/BaseMaterial_Yellow.mat
+  uploadId: 739389

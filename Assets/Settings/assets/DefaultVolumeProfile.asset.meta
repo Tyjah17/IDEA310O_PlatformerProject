@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ea73fe6cc653831af792252711858a076e265449c0f90b1c46455db0b159c9f
-size 381
+fileFormatVersion: 2
+guid: ddb4411159c31ab4aa939f5cf29ff60f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Settings/assets/DefaultVolumeProfile.asset
+  uploadId: 860064

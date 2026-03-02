@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74c842f8d420c1d01c8a6d69938f7e2c11e3b238b32d99961a2cc8aaed8306a9
-size 445
+fileFormatVersion: 2
+guid: 640c53eb49da7954c8a874f8ed22b473
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/Management/EventManager.cs
+  uploadId: 860064

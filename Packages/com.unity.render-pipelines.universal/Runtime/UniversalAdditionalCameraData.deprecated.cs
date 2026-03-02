@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37ab9d143bf7429085954fb114f31fc7895e1998bd32b9276d36399d4d7758a3
-size 924
+﻿using System;
+
+namespace UnityEngine.Rendering.Universal
+{
+    /// <summary>
+    /// Options to control the renderer override.
+    /// This enum is no longer in use.
+    /// </summary>
+    [Obsolete("Renderer override is no longer used, renderers are referenced by index on the pipeline asset. #from(2023.1)")]
+    public enum RendererOverrideOption
+    {
+        /// <summary>
+        /// Use this to choose a custom override.
+        /// </summary>
+        Custom,
+
+        /// <summary>
+        /// Use this to choose the setting set on the pipeline asset.
+        /// </summary>
+        UsePipelineSettings,
+    }
+    
+    public partial class UniversalAdditionalCameraData
+    {
+        /// <summary>
+        /// The serialized version of the class. Used for upgrading.
+        /// </summary>
+        [Obsolete("This field has been deprecated. #from(6000.2)")]
+        public float version => (int)m_Version;
+    }
+}

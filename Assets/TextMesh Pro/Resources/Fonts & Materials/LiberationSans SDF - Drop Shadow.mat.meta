@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01cb8956ccc33e79de4851592a66fd9976206687c43be14ef2d6e00d95c6d05a
-size 412
+fileFormatVersion: 2
+guid: e73a58f6e2794ae7b1b7e50b7fb811b0
+timeCreated: 1484172806
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+    Drop Shadow.mat
+  uploadId: 860064

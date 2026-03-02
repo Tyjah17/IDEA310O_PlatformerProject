@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4fbfc4008b98e2be4c4e599d080e4442906c10e31b7ccdef8a445920508d226
-size 445
+fileFormatVersion: 2
+guid: 8573c79e2e3e6c14c8dc545c942c8a60
+timeCreated: 1490432476
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v1/Source/Oil_tank_v1.mat
+  uploadId: 642814

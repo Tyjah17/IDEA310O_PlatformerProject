@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc261fbd2f675afd063ae102e48782627e8761cc546543755961dff493c4c8a4
-size 418
+fileFormatVersion: 2
+guid: 662c6ba74f90a764799a4213a93ce517
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/platform/rusty_patterned_metal_cleaner_plate-wall_gate
+    1.mat
+  uploadId: 860064

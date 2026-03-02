@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:108000e15225d0188bd92214c1f948e03ae3a37198e2f42f09b24c4f1e4d7c71
-size 462
+fileFormatVersion: 2
+guid: 4aacf79f5a0dae44687cf65a42a1b825
+timeCreated: 1490438417
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Other_props/Conditioners/Conditioner_v1/Conditioner_v1.prefab
+  uploadId: 642814

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:476002649178583ec13cf9d78a0af8f23dec15155a07ae440eca1ddb33246541
-size 393
+fileFormatVersion: 2
+guid: 7c857df6f3a0c364997001a2dc84dbcf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73764
+  packageName: Simple Gems and Items Ultimate Animated Customizable Pack
+  packageVersion: 1.3
+  assetPath: Assets/BTM_Assets/BTM_Items_Gems/Prefabs/HeartGem.prefab
+  uploadId: 739389

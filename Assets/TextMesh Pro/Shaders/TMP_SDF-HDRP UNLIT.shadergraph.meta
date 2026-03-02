@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:658da4323dde21f645b6495ed02ed2e34340af09d099ff30d1ca08d656335e4a
-size 486
+fileFormatVersion: 2
+guid: f63d574838ccfb44f84acc05fed0af48
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+  uploadId: 860064

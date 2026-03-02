@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d067e9089690ff1cb0f9714bbeb049d492c642acb48053c5d51c84085085ea7
-size 269
+fileFormatVersion: 2
+guid: 0ca32b7e9b77f864cba4c429512337af
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/StateHandling/ActivatedByState.cs
+  uploadId: 860064

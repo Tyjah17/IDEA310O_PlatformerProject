@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0d0d49acd13b9dd5da785843eda545b5df8ad341f125edbaf3818085a539d2d
-size 388
+fileFormatVersion: 2
+guid: fe0a442159181c542998db8a1662f9f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/steelBarrier/steelBarrier_shdw.mat
+  uploadId: 860064

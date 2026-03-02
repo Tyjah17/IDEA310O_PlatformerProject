@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a825864e577fa0a966ad6587b786893bbef7dacef3b2e4330425ab6178c8b87a
-size 365
+fileFormatVersion: 2
+guid: 4f916a65e66225040ac34d19acf7d0d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/tablet/tablet.mat
+  uploadId: 860064

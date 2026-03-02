@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:622f25607d169f2aee590ed492b1f0307f3460870a5d012ee962d73534446a51
-size 377
+fileFormatVersion: 2
+guid: 2595dd4d17b9df74c928f3998e9bafde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_gate/emmision_yellow.mat
+  uploadId: 860064

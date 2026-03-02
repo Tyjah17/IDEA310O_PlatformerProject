@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57030b94ac538cbb713aa9acaf1d7e208329da48cdf8ae9364e1c9787de13f6a
-size 642
+using UnityEngine;
+using TMPro;
+using UnityEngine.SceneManagement;
+
+public class BatteryCollector : MonoBehaviour
+{
+    public TMP_Text BatteryText;
+    public int BattsPerLvl = 5;
+    private int batteriesCollected = 0;
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Battery"))
+        {
+            batteriesCollected++;
+            BatteryText.text = "BATTERIES COLLECTED: " + batteriesCollected + "/" + BattsPerLvl;
+            Destroy(other.gameObject);
+
+            if (batteriesCollected >= BattsPerLvl)
+            {
+                SceneManager.LoadScene("Menu");
+            }
+        }
+    }
+}

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e942aae070ee52c4313df0038a4a3793292421b0ce2c81d3b639d40ae3a4573c
-size 408
+fileFormatVersion: 2
+guid: 1d35c8ff8df44934ab0d5619746c0699
+timeCreated: 1505873660
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Map_v2.unity
+  uploadId: 642814

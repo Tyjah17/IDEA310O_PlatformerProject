@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56fcc0fd1d25d4819d284bef0c7a2e73908a69f6e73ef4169c8e8f521ceea45e
-size 649
+fileFormatVersion: 2
+guid: fe10e9a830d5cfa4aaaf458941c2b33f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zilla Slab
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Fonts/ZillaSlab-Bold.ttf
+  uploadId: 860064

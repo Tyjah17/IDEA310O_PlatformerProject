@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c54482a1ee8bef9d6ea67937542eee32d8b666cea7452360ae413e4c2137951b
-size 1645
+using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.Universal;
+
+namespace UnityEditor.Rendering.Universal
+{
+    class UniversalSpeedTree8Upgrader : SpeedTree8MaterialUpgrader
+    {
+        internal UniversalSpeedTree8Upgrader(string oldShaderName)
+            : base(oldShaderName, ShaderUtils.GetShaderPath(ShaderPathID.SpeedTree8), UniversalSpeedTree8MaterialFinalizer)
+        {
+            RenameFloat("_TwoSided", Property.CullMode);
+        }
+        static public void UniversalSpeedTree8MaterialFinalizer(Material mat)
+        {
+            SpeedTree8MaterialFinalizer(mat);
+
+            if (mat.HasFloat("_TwoSided"))
+                mat.SetFloat(Property.CullMode, mat.GetFloat("_TwoSided"));
+
+            Unity.Rendering.Universal.ShaderUtils.UpdateMaterial(mat,
+                Unity.Rendering.Universal.ShaderUtils.MaterialUpdateType.CreatedNewMaterial,
+                Unity.Rendering.Universal.ShaderUtils.ShaderID.SpeedTree8);
+        }
+    }
+
+    class UniversalSpeedTree8PostProcessor : AssetPostprocessor
+    {
+        void OnPostprocessSpeedTree(GameObject speedTree)
+        {
+            context.DependsOnCustomDependency("srp/default-pipeline");
+
+            if (RenderPipelineManager.currentPipeline is UniversalRenderPipeline)
+            {
+                SpeedTreeImporter stImporter = assetImporter as SpeedTreeImporter;
+                if(stImporter.isV8)
+                {
+                    SpeedTree8MaterialUpgrader.PostprocessSpeedTree8Materials(speedTree, stImporter, UniversalSpeedTree8Upgrader.UniversalSpeedTree8MaterialFinalizer);
+                }
+            }
+        }
+    }
+}

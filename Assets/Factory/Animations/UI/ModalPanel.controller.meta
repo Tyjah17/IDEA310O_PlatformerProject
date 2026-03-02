@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05ea5fdadfc0599d688a58b15471326852f04b3575a19573413e65a977781d7d
-size 373
+fileFormatVersion: 2
+guid: fbcd2969532aa7440b394cd24db2fa8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Animations/UI/ModalPanel.controller
+  uploadId: 860064

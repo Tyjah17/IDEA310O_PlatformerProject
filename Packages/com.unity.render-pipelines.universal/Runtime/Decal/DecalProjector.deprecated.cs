@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c44013dd34b92fc8e3effba418f5ea33594b8f1601bad4d91167da5092e8d3e
-size 281
+using System;
+
+namespace UnityEngine.Rendering.Universal
+{
+    public partial class DecalProjector
+    {
+        [SerializeField, Obsolete("This field is only kept for migration purpose. Use m_RenderingLayersMask instead. #from(6000.2)")]
+        uint m_DecalLayerMask = 1;
+    }
+}

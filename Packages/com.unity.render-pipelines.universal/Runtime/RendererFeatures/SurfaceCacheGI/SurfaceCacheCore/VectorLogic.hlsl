@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e324b3877e4b6d982562d39d4503d2ac48a42cfeb0566400884d4e28c5dfc3d
-size 630
+#ifndef VECTOR_LOGIC
+#define VECTOR_LOGIC
+
+#if defined(SHADER_API_GAMECORE)
+#define USE_HLSL2021_VECTOR_LOGIC_INTRINSICS
+#endif
+
+#if defined(USE_HLSL2021_VECTOR_LOGIC_INTRINSICS)
+
+#define VECTOR_LOGIC_AND(x, y) and(x, y)
+#define VECTOR_LOGIC_OR(x, y) or(x, y)
+#define VECTOR_LOGIC_SELECT(condition, trueValue, falseValue) select((condition), (trueValue), (falseValue))
+
+#else
+
+#define VECTOR_LOGIC_AND(x, y) ((x) && (y))
+#define VECTOR_LOGIC_OR(x, y) ((x) || (y))
+#define VECTOR_LOGIC_SELECT(condition, trueValue, falseValue) ((condition) ? (trueValue) : (falseValue))
+
+#endif
+#undef USE_HLSL2021_VECTOR_LOGIC_INTRINSICS
+
+#endif
+

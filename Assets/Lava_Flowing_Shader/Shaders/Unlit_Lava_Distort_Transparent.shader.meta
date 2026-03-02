@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a6d65f7f0592d1bc3a918b07920c1890ff19b2949c5e06c799c6d6b52c91427
-size 371
+fileFormatVersion: 2
+guid: 0803b816564bc844b9300c6e1572fcff
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33635
+  packageName: Lava Flowing Shader
+  packageVersion: 1.2
+  assetPath: Assets/Lava_Flowing_Shader/Shaders/Unlit_Lava_Distort_Transparent.shader
+  uploadId: 128561

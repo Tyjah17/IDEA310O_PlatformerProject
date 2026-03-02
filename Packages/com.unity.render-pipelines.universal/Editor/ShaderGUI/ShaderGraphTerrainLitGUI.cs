@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e4253e69816b10f2e156132cb797944ffc65eb47729290d679631661ea6d517
-size 805
+using UnityEngine;
+
+namespace UnityEditor.Rendering.Universal
+{
+    internal class ShaderGraphTerrainLitGUI : TerrainLitShaderGUI
+    {
+        protected override uint materialFilter => (uint)(Expandable.SurfaceOptions | Expandable.SurfaceInputs);
+        private MaterialProperty[] properties;
+
+        public override void FindProperties(MaterialProperty[] properties)
+        {
+            this.properties = properties;
+
+            var material = materialEditor?.target as Material;
+            if (material == null)
+                return;
+
+            base.FindProperties(properties);
+            FindMaterialProperties(properties);
+        }
+
+        public override void DrawSurfaceInputs(Material material)
+        {
+            DrawShaderGraphProperties(material, properties);
+        }
+    }
+}

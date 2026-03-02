@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbb6cacaf6a30ef196b425d1c9f8853818653357781f06996752bac09e8b4ecb
-size 886
+fileFormatVersion: 2
+guid: 25a0ebb4827f3cc47a1af2c79005f65b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+  useAsTemplate: 1
+  template:
+    name: 2D Sprite Unlit
+    category: Basics
+    description: 'A basic shader for unlit sprites.
+
+
+      Unlit shaders are very
+      cheap to render because they skip all of the complexity of calculating lighting.
+      If you don''t need lighting for your material, you can save a lot of performance
+      by using an Unlit shader like this one.
+
+
+      Supported Pipeline(s): URP
+
+      Active
+      Target: Sprite Unlit
+
+      VFX Graph Support: disabled'
+    icon: {instanceID: 0}
+    thumbnail: {fileID: 2800000, guid: a1be7992c1f7b0947bc2f9b045098f9e, type: 3}

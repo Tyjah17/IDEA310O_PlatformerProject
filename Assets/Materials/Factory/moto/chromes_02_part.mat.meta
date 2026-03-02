@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12e4a3db7e8f1e9eb8ed79b268588737158430bf7d22b1aff342afcb20805622
-size 372
+fileFormatVersion: 2
+guid: 70e55a9cc89c13947895802a6e0ec9c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/moto/chromes_02_part.mat
+  uploadId: 860064

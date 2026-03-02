@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c64ae1d3cdc419316bcd397830722b2a9f2651f52b7968a54dc218af7ea8cc09
-size 414
+fileFormatVersion: 2
+guid: 6e98cb17ce2bd504685514afd8a5452b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_door/painted_metal_scratched_beige_metal_type01-wall_door.mat
+  uploadId: 860064

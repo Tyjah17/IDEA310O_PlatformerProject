@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d98a0b948002f08953e2f13ca52359b92a3edc358c51de7bc211d86395cbd2d0
-size 435
+fileFormatVersion: 2
+guid: 19ba41d7c0026c3459d37c2fe90c55a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/UniversalRP-HighQuality.asset
+  uploadId: 668440

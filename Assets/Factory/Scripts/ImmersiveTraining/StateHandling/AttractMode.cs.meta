@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ccc8539c5663f605c13c8cd76c67002320bafe946ba9745882f56ea8d97ae04e
-size 264
+fileFormatVersion: 2
+guid: fa0e6bb28f1ba904a99ce3b939ff0a5b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/StateHandling/AttractMode.cs
+  uploadId: 860064

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7698e8f8cfd55122ab8b12976387bb2ff98e65344318c7e3704d9e0c67955287
-size 375
+fileFormatVersion: 2
+guid: 19e61b57ff0eeca4fa8bffb6b51494ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Settings/assets/PC_Renderer_DC.asset
+  uploadId: 860064

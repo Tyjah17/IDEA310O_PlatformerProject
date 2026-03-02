@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:673203b37e09b874cfc00f5ddfa510a6b9160c065c990f992e73217544871320
-size 402
+fileFormatVersion: 2
+guid: fab7487ff2cc30b41bcbfae6fd73b990
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/charger_GRP/painted_metal_chipped_grey-charger_GRP.mat
+  uploadId: 860064

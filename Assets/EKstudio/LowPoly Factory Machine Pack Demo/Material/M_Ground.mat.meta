@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89acb0bb68cf058c93dcfe0024187225903d66d57198b892088987d90abb77d5
-size 420
+fileFormatVersion: 2
+guid: 1cae5dd50f0911c449b61d83c6d277eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Ground.mat
+  uploadId: 668440

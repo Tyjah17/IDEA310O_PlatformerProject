@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2894b8e27963950fe9f3e20f7d9cd703b138d46e3b447cc0071eab15b0adbfaf
-size 419
+fileFormatVersion: 2
+guid: e0f3a02846fd8db43b4533e7bf7e9efe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Material/M_Glass.mat
+  uploadId: 668440

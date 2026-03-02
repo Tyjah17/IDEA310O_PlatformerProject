@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d5a12b618455d0384a4f5c3e661ad8d72b31786d9cb4b49701ce8583869fe7b7
-size 376
+fileFormatVersion: 2
+guid: 0466305ef5aae564b9434fd236d526fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/pole/smooth_plaster-pole.mat
+  uploadId: 860064

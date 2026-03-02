@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99538a0e7062784899b53244c061bf297a559c7033e6fce53216e8d85fb2255e
-size 380
+fileFormatVersion: 2
+guid: 039d62e6a83bd574bbfd43959b780b13
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/kone/Kone_bucket_white.mat
+  uploadId: 860064

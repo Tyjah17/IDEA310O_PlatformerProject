@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3978217fc0b443d03f53e94120fd3e8952767c70c9a3ead650b940ff7c7f196
-size 389
+fileFormatVersion: 2
+guid: fade42e8bc714b018fac513c043d323b
+timeCreated: 1425440388
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+  uploadId: 860064

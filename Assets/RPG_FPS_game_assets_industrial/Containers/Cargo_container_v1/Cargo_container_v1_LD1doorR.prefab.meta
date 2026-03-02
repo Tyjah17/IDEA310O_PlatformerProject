@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b10c34618532ad35c89e8569933612a37b9a3d0d5aa2d46109fe847993c3779
-size 465
+fileFormatVersion: 2
+guid: bd78ceace8eb93d42a9ee0bde8dbc598
+timeCreated: 1490442100
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Cargo_container_v1_LD1doorR.prefab
+  uploadId: 642814

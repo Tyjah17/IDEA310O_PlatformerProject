@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ee24635c98f4e5f1437bd469db9401cab0c1826451bc333d51081ecc7bf3f18
-size 392
+fileFormatVersion: 2
+guid: f952c082cb03451daed3ee968ac6c63e
+timeCreated: 1432805430
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  uploadId: 860064

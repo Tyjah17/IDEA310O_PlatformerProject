@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72a1dcda3abbf56a83aaf6b73b2d7972b8286f49bb233ffc66aac780ea9c44b7
-size 442
+fileFormatVersion: 2
+guid: bd28e287643228a4f8f2ffe825813f0a
+timeCreated: 1505883838
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Other_props/Fans/Fan_v1/Source/Fan_v1.mat
+  uploadId: 642814

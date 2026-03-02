@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2b5b03acc60e87dd9667a71934ce95fa17d88e33533606084c625eb8ab6aec6
-size 381
+fileFormatVersion: 2
+guid: f5707b31e49086345bd24178ad183b3e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/ceiling/aluminium_brushed_top.mat
+  uploadId: 860064

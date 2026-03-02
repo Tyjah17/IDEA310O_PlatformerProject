@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96a8fb38dd6a050b97cd2e6c9b4ceb61eb4215c12828a216b1ba3fe7280b40fd
-size 411
+fileFormatVersion: 2
+guid: 2e498d1c8094910479dc3e1b768306a4
+timeCreated: 1484171803
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+    Fallback.asset
+  uploadId: 860064

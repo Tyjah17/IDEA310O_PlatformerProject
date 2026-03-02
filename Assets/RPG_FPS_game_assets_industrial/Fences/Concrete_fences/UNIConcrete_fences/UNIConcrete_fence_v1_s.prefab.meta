@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:591def0865fb4bda41db1989f31bb5ad77029e782568c0387b980ab11de67fe4
-size 472
+fileFormatVersion: 2
+guid: f0edaebc598e4d34b80cc4fcf3f6550b
+timeCreated: 1490437925
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/UNIConcrete_fences/UNIConcrete_fence_v1_s.prefab
+  uploadId: 642814

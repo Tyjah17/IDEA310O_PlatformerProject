@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00cf920d722b9fa29fafbe672dcd6dd9a4c748e27e9bfa1126cdb92c9dadaa23
-size 391
+fileFormatVersion: 2
+guid: 04a182dac45d1bc4faac2f89052c62ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_plain_Type_B/smooth_plaster-Type_B.mat
+  uploadId: 860064

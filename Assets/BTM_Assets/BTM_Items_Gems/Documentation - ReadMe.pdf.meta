@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b6769ad47993b06689c40f2353388ee612fba7ec8c55e42273d5e598b420138
-size 397
+fileFormatVersion: 2
+guid: d113e549a6abd77448a31c8f3889c62b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73764
+  packageName: Simple Gems and Items Ultimate Animated Customizable Pack
+  packageVersion: 1.3
+  assetPath: Assets/BTM_Assets/BTM_Items_Gems/Documentation - ReadMe.pdf
+  uploadId: 739389

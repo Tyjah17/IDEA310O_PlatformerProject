@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2647a1f49d2d9d15a97e497d132820eead74976fc57d8052937f66626d6dd7a2
-size 357
+fileFormatVersion: 2
+guid: d1c3109bdb54ad54c8a2b2838528e640
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191449
+  packageName: Simple Water Shader URP
+  packageVersion: 1.0.0
+  assetPath: Assets/IgniteCoders/Simple Water Shader/Demo.unity
+  uploadId: 422776

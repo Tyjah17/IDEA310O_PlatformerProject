@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05aa5db1d429da794b4d2bd7b2a4a328ca2b792d4557d1be9a4caa54eed59ef1
-size 264
+fileFormatVersion: 2
+guid: 297995ebe167f7649832951157f584f5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/URPRenderScaleController.cs
+  uploadId: 860064

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf421ff5f3c2346c2b9fb153c7a3d8c06f218ec581add6c2da3386a4b171e6b6
-size 398
+fileFormatVersion: 2
+guid: 76c49194dbbdc804fb074bfcd4021513
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_door/painted_metal_chipped_blue-wall_door.mat
+  uploadId: 860064

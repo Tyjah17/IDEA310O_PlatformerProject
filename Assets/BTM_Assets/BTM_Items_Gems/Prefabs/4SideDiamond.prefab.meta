@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a79326680e2e936be7cf440359005c5643932d218e93af218288f29c6b85d4e
-size 397
+fileFormatVersion: 2
+guid: 8b222146fa41a324789772470d2d6e3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73764
+  packageName: Simple Gems and Items Ultimate Animated Customizable Pack
+  packageVersion: 1.3
+  assetPath: Assets/BTM_Assets/BTM_Items_Gems/Prefabs/4SideDiamond.prefab
+  uploadId: 739389

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3614c582a372e58e72802677c3ac9ee64a065edb29e687c25c930172c16342fb
-size 377
+fileFormatVersion: 2
+guid: f4eb81393680d8b41a137340afc2d594
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/moto/plastic_hose_01_part.mat
+  uploadId: 860064

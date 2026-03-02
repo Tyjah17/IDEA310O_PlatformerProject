@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e469bf2d2bb0d90b2f80ade62d4c8811934dd235f4ba3fd5e6af06b95a221217
-size 391
+fileFormatVersion: 2
+guid: 9e274a6d95745b342a40b4dd420f7ff1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/pole/painted_metal_scratched_white-pole.mat
+  uploadId: 860064

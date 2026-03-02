@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db6daf52ef2ee52c212626bd8e00d1c67764d122c760f15131a3b2b34df6a263
-size 489
+fileFormatVersion: 2
+guid: ce4929b3f402674448dd1e25c648d9b7
+timeCreated: 1490440425
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_tile_1.prefab
+  uploadId: 642814

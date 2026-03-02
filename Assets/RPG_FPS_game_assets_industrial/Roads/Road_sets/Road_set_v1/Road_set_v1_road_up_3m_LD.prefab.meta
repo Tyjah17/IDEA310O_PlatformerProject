@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26270dd4d1c7623f91c984b2eac38c4072c71bc08c39e23e5f5cdd819570d108
-size 461
+fileFormatVersion: 2
+guid: bc667769ec7fefe4bae11858e436c69b
+timeCreated: 1490441473
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_3m_LD.prefab
+  uploadId: 642814

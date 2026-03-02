@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e17320d2fd152b3210d7ec2a40d7f9c83cc5787b13fb3911dad75c8fc5a8a6d
-size 256
+fileFormatVersion: 2
+guid: 616ee1080f01fac4e82d69739c076438
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/FramerateCounter.cs
+  uploadId: 860064

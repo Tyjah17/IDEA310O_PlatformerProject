@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b0f51a0de80c5de9dfadab8ca53b6284e4dbfc9ad8f6afd47fc350e5c24d018
-size 383
+fileFormatVersion: 2
+guid: c5b6432eb5c5ecd41a1c5065d2686911
+timeCreated: 1469219568
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33635
+  packageName: Lava Flowing Shader
+  packageVersion: 1.2
+  assetPath: Assets/Lava_Flowing_Shader/Materials/mtl_lava_diffuse.mat
+  uploadId: 128561

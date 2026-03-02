@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c50991c17decb35efd8c20e55f667e93788f177cb3d151f4c347f5e45a96211
-size 505
+#if !defined(NORMALS_RENDERING_PASS)
+#define NORMALS_RENDERING_PASS
+
+half4 NormalsRenderingShared(half4 color, half3 normalTS, half3 tangent, half3 bitangent, half3 normal)
+{
+    // Account for sprite flip
+    normalTS.xy *= unity_SpriteProps.xy;
+    half3 normalWS = TransformTangentToWorld(normalTS, half3x3(tangent.xyz, bitangent.xyz, normal.xyz));
+
+    half4 normalColor;
+    normalColor.rgb = 0.5 * ((normalWS)+1);
+    normalColor.a = color.a;  // used for blending
+
+    return normalColor;
+}
+#endif

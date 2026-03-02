@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:263d2ba4fdfa5249c806a9993eff0cc08a7f4ea58fc813e1379ce81a00dad44c
-size 401
+fileFormatVersion: 2
+guid: d2a72e6e891809d49ab587e8c98ca848
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_door/painted_metal_scratched_white-wall_door.mat
+  uploadId: 860064

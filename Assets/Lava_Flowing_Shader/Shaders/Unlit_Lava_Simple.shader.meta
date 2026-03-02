@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a126e053f0e897d6c2ec438a4fa03ddd70badbec292a2f1c6568c895885a2895
-size 358
+fileFormatVersion: 2
+guid: bec21333d7f8cf84cb75cab616acf589
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33635
+  packageName: Lava Flowing Shader
+  packageVersion: 1.2
+  assetPath: Assets/Lava_Flowing_Shader/Shaders/Unlit_Lava_Simple.shader
+  uploadId: 128561

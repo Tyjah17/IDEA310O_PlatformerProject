@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8949b6153d01babc124a0d8b15d5a13111c6a183ace52e48b436294121fa501
-size 386
+fileFormatVersion: 2
+guid: 28019ed7559355643b45e83ab53863ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Canvas.prefab
+  uploadId: 668440

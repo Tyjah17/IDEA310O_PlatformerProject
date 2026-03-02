@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a63883f58e762208632d53ed8ead01b53e5f3d255d383ce8a1e13da1585644fc
-size 398
+fileFormatVersion: 2
+guid: 1e4916ec0aa669648804ed196ece8fe3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73764
+  packageName: Simple Gems and Items Ultimate Animated Customizable Pack
+  packageVersion: 1.3
+  assetPath: Assets/BTM_Assets/BTM_Items_Gems/Prefabs/DoubleDiamond.prefab
+  uploadId: 739389

@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:44e84ef086d537cc49fa6347cfb24e8443ffa3f15562f754da82cc273dab2ed4
-size 406
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
+using System.Collections;
+
+namespace MyGameNamespace
+{
+    public class OpenLinkOnButtonClick : MonoBehaviour, IPointerClickHandler
+    {
+
+        
+        public string linkURL;
+
+       
+        public void OnPointerClick(PointerEventData eventData)
+        {
+           
+            Application.OpenURL(linkURL);
+        }
+    }
+}

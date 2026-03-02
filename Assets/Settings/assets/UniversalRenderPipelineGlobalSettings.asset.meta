@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c035cada7f2510bf5f5af079ec47a88a44e9315704f02b11be0e05a1a9829ef0
-size 398
+fileFormatVersion: 2
+guid: bb4bdd2a58907ed4cb2af1715238ff4d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Settings/assets/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 860064

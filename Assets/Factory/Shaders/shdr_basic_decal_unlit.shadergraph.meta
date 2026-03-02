@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2da514ee9f8a827a2447526ca5885b80f57ea5b30685cda9ac94e85b440a5db1
-size 477
+fileFormatVersion: 2
+guid: 46655f175767ebc42a9e57b24e80123c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Shaders/shdr_basic_decal_unlit.shadergraph
+  uploadId: 860064

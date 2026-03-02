@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ebe41281ea87120f01af752e1dc6f7624ab34d306e379d348fb592cb97ae9ed7
-size 454
+fileFormatVersion: 2
+guid: 51c00a863c6a94546acad70366352a97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/Management/StateManager_Training.cs
+  uploadId: 860064

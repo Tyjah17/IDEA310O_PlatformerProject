@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c18874770673bce3f7c8a762be4319d95248af3d2aab8c26eff9d66800f6c4e1
-size 390
+fileFormatVersion: 2
+guid: 6930455d51111dd43993e54dc8b6476e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Cone.prefab
+  uploadId: 668440

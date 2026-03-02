@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:186abd9b9fca0864b23e0f2e3c3f95528670248314e1e271e110005c89e9a13b
-size 393
+fileFormatVersion: 2
+guid: df9a8d94de14f974eba482b719b1f7f9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Barrier.prefab
+  uploadId: 668440

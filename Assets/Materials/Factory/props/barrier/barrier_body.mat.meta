@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0afdd6a98b4184c62d0cba9bee6e26d161256c943898f5d1595315b1552979bb
-size 378
+fileFormatVersion: 2
+guid: af72fb3114bdebd4a965f05f1880ff48
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/barrier/barrier_body.mat
+  uploadId: 860064

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e819c2cbc9f2b19df5a015f8fda09d75bcab6e32cf077a7e0fa1cfc87178401
-size 408
+fileFormatVersion: 2
+guid: 84dd2dcbe28f20646ab1e279573199fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/charger_simple/painted_metal_chipped_grey-charger_simple.mat
+  uploadId: 860064

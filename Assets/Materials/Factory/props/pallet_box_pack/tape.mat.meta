@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4dcae9abd532bb768c6c6c593eda8e83b92d2308520b0bdcf68d0b408e3e5f33
-size 378
+fileFormatVersion: 2
+guid: 775be921273a65544b3053ee316f7060
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/pallet_box_pack/tape.mat
+  uploadId: 860064

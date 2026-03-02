@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ed48412e38af5dbc79a9b3fdb0501af54b3cbb97422975dfb8e38117d087fcc
-size 376
+fileFormatVersion: 2
+guid: 968a8af978326c841bad85d5dab6b6c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/moto/reflectors-main_red.mat
+  uploadId: 860064

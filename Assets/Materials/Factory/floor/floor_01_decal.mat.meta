@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4616e42ef0b348f9745effcdb2db5f6ac294dc3fccf7b5b090c7d8df8f534320
-size 372
+fileFormatVersion: 2
+guid: be7fce2a09af9c949a18804187714d6b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/floor/floor_01_decal.mat
+  uploadId: 860064

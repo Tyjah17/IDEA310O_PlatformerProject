@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4afb43e3ad2e84dd231aae87f1dd95a6dbe69594932549f4b799500a786c23a8
-size 408
+fileFormatVersion: 2
+guid: c9758b74f585316409cc7d36fff3c2cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_plain_Type_B/painted_metal_chipped_tealGreen-Type_B.mat
+  uploadId: 860064

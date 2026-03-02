@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d40af8dba269181f4772459fa7327b002aa03280e7614694ce2b1f2dc3f75833
-size 439
+fileFormatVersion: 2
+guid: c5f7cede6a925514386b816bbae7e90e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v9.mat
+  uploadId: 642814

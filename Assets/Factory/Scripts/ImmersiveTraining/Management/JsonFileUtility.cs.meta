@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c163b0c13ac67204e10c86d62848f8d8179f6295945216c33466ef3d5b43d4b0
-size 265
+fileFormatVersion: 2
+guid: 7dd57fcdcf84d1d459e7767b57954102
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/Management/JsonFileUtility.cs
+  uploadId: 860064

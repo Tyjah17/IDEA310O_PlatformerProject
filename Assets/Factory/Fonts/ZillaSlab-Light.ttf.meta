@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:87b83f8d61a6e44b421a3a7467f5c8f0ec049ba6f50b28dd6c387d997672b3fb
-size 650
+fileFormatVersion: 2
+guid: c6cd0880ea8d6ba4a838c10982d8c8b3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zilla Slab
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Fonts/ZillaSlab-Light.ttf
+  uploadId: 860064

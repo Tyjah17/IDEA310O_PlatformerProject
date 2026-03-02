@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:505771bc16af20129087d9d8516ac84b457013b219b223a7fc8f3038d1bcfd66
-size 826
+#include "Packages/com.unity.render-pipelines.universal/Runtime/VFXGraph/Shaders/VFXLit.hlsl"
+
+#ifndef VFX_SHADERGRAPH
+
+#if VFX_MATERIAL_TYPE_SIX_WAY_SMOKE
+#define SurfaceData SixWaySurfaceData
+#endif
+
+void VFXGetURPLitData(out SurfaceData surfaceData, out InputData inputData, VFX_VARYING_PS_INPUTS i, float3 normalWS, const VFXUVData uvData, bool frontFace, uint2 tileIndex)
+{
+    float3 posRWS = VFXGetPositionRWS(i);
+    float4 posSS = i.VFX_VARYING_POSCS;
+    PositionInputs posInput = GetPositionInput(posSS.xy, _ScreenSize.zw, posSS.z, posSS.w, posRWS, tileIndex);
+
+    surfaceData = VFXGetSurfaceData(i, normalWS, uvData, frontFace);
+    inputData = VFXGetInputData(i, posInput, normalWS, frontFace);
+}
+#endif
+
+
+#include "Packages/com.unity.render-pipelines.universal/Runtime/VFXGraph/Shaders/VFXLitPixelOutput.hlsl"
+

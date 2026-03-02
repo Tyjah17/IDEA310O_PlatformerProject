@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:825772dd9a0fcbedc8ef57f26e82738ea6b452b55d60a2148ead9039d76ebfb5
-size 442
+fileFormatVersion: 2
+guid: 89e2ea042073a8147ac27e48e898b4b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/Management/Singleton.cs
+  uploadId: 860064

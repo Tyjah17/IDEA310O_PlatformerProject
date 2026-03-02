@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3199603614d7e5064ed8c6b873639264d19336b3e34e5a94228b42f3146b20e2
-size 390
+fileFormatVersion: 2
+guid: ea5f9594a3f78cf468a45a4d99cefbc9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/shelf_forklift/shelf_forklift_02.mat
+  uploadId: 860064

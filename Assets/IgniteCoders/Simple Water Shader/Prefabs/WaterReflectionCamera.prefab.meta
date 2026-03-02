@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42eebaf6e8eede0847da687a5316b6f1e424402d80c9033032fe444e6f740703
-size 382
+fileFormatVersion: 2
+guid: 838c0bef810bfe94d8e33947c3cba7c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191449
+  packageName: Simple Water Shader URP
+  packageVersion: 1.0.0
+  assetPath: Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterReflectionCamera.prefab
+  uploadId: 422776

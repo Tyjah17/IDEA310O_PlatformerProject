@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea2aaa32420c82059ba86934c2c9e0f48a5784fe15dc03486968bacac28e4b04
-size 299
+#pragma only_renderers d3d11 playstation xboxone xboxseries vulkan metal glcore ps5
+
+#define UNIFIED_RT_GROUP_SIZE_X 64
+#define UNIFIED_RT_GROUP_SIZE_Y 1
+#define UNIFIED_RT_GROUP_SIZE_Z 1
+#define UNIFIED_RT_RAYGEN_FUNC GenerateCandidateAndResampleTemporally
+
+#include "RestirCandidateTemporal.hlsl"

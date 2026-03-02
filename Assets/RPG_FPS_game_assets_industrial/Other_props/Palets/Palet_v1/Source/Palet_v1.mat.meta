@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c606f9ca4cf315ad232ba06c7bcb2b74c9f206a20325d584c801f9702a06931
-size 448
+fileFormatVersion: 2
+guid: 4a8145f028f3ea948a65028b51474a3f
+timeCreated: 1490432990
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Other_props/Palets/Palet_v1/Source/Palet_v1.mat
+  uploadId: 642814

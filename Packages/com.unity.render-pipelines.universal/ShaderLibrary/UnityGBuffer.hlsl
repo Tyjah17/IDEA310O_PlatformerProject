@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4854337c62dcdbb5890aaf3c4bac2952cfb9e9b4a5032ca9756044192e7241f
-size 183
+#warning "UnityGBuffer.hlsl" is deprecated in 6.1! Please upgrade your shaders to include "GBufferOutput.hlsl" or "GBufferInput.hlsl" instead!
+#include "UnityGBuffer.deprecated.hlsl"

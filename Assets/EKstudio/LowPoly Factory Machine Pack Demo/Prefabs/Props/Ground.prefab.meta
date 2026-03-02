@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1ad969301afa7c55bc248c06b56b8f4dc5b9728a8e9ecea01e3338640eb8fde
-size 392
+fileFormatVersion: 2
+guid: 715401d994ff25a438a1a4d2a2f4858f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/Props/Ground.prefab
+  uploadId: 668440

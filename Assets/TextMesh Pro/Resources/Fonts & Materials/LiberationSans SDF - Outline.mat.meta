@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce9092c987a5f2b084bc094b736baab0f10afb342dce078f7424fcd8548afa61
-size 408
+fileFormatVersion: 2
+guid: 79459efec17a4d00a321bdcc27bbc385
+timeCreated: 1484172856
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+    Outline.mat
+  uploadId: 860064

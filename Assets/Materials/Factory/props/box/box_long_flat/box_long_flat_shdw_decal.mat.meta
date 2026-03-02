@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6b48ec60e1b83dcdb9488c666b0abb0e034daec29ef1998bb858959d4a88af7
-size 400
+fileFormatVersion: 2
+guid: 4f7b7618d309ad34691ff8c0c609369c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/box/box_long_flat/box_long_flat_shdw_decal.mat
+  uploadId: 860064

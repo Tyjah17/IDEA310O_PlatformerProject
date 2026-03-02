@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee43811f707a9785378798b0860650f8375418517cc54d5720f50dc76cdaf109
-size 263
+fileFormatVersion: 2
+guid: ab0f0f5ffb09dcd4a8752c726c34a83b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/Management/ResetTraining.cs
+  uploadId: 860064

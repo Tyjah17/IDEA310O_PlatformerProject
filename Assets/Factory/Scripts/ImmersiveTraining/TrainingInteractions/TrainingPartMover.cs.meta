@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3086b12c9ce52a3288c297bf78219b590337386574afad8f72757ddcf6f291f0
-size 277
+fileFormatVersion: 2
+guid: 25ac6628f618d68429056389e4768d74
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/TrainingInteractions/TrainingPartMover.cs
+  uploadId: 860064

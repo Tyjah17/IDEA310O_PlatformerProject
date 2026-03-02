@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b47c28bbd0987fe7158fa4e2c5c200dd280825c9be11e624e0ee042e449e266
-size 385
+fileFormatVersion: 2
+guid: 7c955b1f58f0c0e419379c378c29aaa6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/pallet_box_pack/box_type_02.mat
+  uploadId: 860064

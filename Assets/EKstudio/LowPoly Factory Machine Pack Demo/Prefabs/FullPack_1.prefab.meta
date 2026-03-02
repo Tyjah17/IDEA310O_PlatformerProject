@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c6714965c0ce0ad9a555164c117960c68b44949b03a18e4cc7c918c73615a4f6
-size 390
+fileFormatVersion: 2
+guid: b9773f249e2cb1c46b432e7764ccde0b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Prefabs/FullPack_1.prefab
+  uploadId: 668440

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fbddb0a791c59ca888777d365d257866235c4d9cccbf32dce384731c4fcfef31
-size 384
+fileFormatVersion: 2
+guid: dc9ece3a28293304a9d8623ffcc7da65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/largeContainer/box_type_02.mat
+  uploadId: 860064

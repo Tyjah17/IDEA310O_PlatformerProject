@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7614a39873e1107efcb8c66ab6cc9ef89f70f0762180d861d558d7fa03357966
-size 359
+fileFormatVersion: 2
+guid: 169a3f1b0532ff543900107358e4f0b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Animations/step6.anim
+  uploadId: 860064

@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f4068319727e78fb2d3131314af620c47ccb9fe20b69219ef55504078a3521e
-size 658
+fileFormatVersion: 2
+guid: c60e714873f469c4d8b96deb1bc4af7b
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Audio/drill_clip_01.wav
+  uploadId: 860064

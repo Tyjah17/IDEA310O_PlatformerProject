@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d73e3b7da510ac5bfdbc892122609681c7b26b0c68c78c8e43fba89620b9cb1
-size 459
+fileFormatVersion: 2
+guid: d5dcb6cb039e8ce49a4c66c35cdd51c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/StateHandling/HideInsteadOfDeactivate.cs
+  uploadId: 860064

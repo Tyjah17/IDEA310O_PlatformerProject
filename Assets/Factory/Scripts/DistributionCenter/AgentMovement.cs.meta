@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c2447967ee33c7a30416dee30b19df2dde944f3b76b75ebb59c08c84d5790b58
-size 253
+fileFormatVersion: 2
+guid: 7cb51ce344b68c7489ddc61c5e19268d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/AgentMovement.cs
+  uploadId: 860064

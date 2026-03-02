@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:120fdebc7de1d729f219e4123ab139406d7569358303c62f47cb24fe2a264674
-size 542
+﻿using System.Collections.Generic;
+using UnityEngine;
+
+public class FanUpdraft : MonoBehaviour
+{
+    CharacterController controller;
+    GameObject player;
+
+    Vector3 some;
+
+    void Awake()
+    {
+        player = GameObject.FindGameObjectWithTag("Player");
+        controller = player.GetComponent<CharacterController>();
+    }
+
+    void OnTriggerEnter()
+    {
+        some = new Vector3(player.transform.position.x, player.transform.position.y + 800, player.transform.position.z);
+        controller.Move(some * Time.deltaTime);
+    }
+}

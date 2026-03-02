@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb4ff2cbd727391b3c3a14d6fa7cd2abd5f53d42982cc7eb1c6ec8fcc08108c7
-size 252
+fileFormatVersion: 2
+guid: a5c31c503cfe1224ca48a3afb89837fe
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/DistributionCenter/GPUDetection.cs
+  uploadId: 860064

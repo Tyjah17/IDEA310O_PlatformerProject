@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f3b6903827287c8589fa09c651b78a6cfba3e39d64f9444f89a8640664cf16e2
-size 366
+fileFormatVersion: 2
+guid: 0e36f24acc175e346b7fce2792c93300
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/moto/rubber_04.mat
+  uploadId: 860064

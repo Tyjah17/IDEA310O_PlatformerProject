@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f14b223d6bb55946f058dc667092a3d0ab4a1ee04b5722ba6086a4de10cdf973
-size 394
+fileFormatVersion: 2
+guid: f1b0b43eee8e2f14da3d222e8b037cf0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/Scene_URP.unity
+  uploadId: 668440

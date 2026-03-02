@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33b454ec22ba7cedcaa3aa78e03fb571eccc9c2cef6d615242a92d3e5490ef00
-size 419
+fileFormatVersion: 2
+guid: 4ae8ae7350b67b44785d874c413a2e03
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191449
+  packageName: Simple Water Shader URP
+  packageVersion: 1.0.0
+  assetPath: Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.renderTexture
+  uploadId: 422776

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b9f48c453e3b7537395085ce6bb4d01e4fe9ee54a9b2217fd588312364d7f605
-size 431
+fileFormatVersion: 2
+guid: 21ab07a538ae9554aafc59641277f39b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/FullPack_1.controller
+  uploadId: 668440

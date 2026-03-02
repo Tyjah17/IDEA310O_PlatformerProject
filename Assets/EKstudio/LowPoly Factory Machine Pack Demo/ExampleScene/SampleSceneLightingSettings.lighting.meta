@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbbbc82ddff66860b3ce5697a9a5324783dcacee2b0779c3b2fe5fe2d2b9b373
-size 460
+fileFormatVersion: 2
+guid: e1cdcf10cf3566343b0c152934f7c215
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/ExampleScene/SampleSceneLightingSettings.lighting
+  uploadId: 668440

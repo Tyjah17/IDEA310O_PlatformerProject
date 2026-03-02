@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7c0112bb94adb17a0ff6ff5d6eacf08180444eea777736ccefb39d716c27d5a
-size 373
+fileFormatVersion: 2
+guid: f3928f5269253cc468cd59dc4d45744f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/pole/pole_floor_decal.mat
+  uploadId: 860064

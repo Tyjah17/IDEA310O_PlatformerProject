@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0bb3449ce98507b200a046122fd623a047f79e8600a3de92c068c5678adb9595
-size 375
+fileFormatVersion: 2
+guid: c41deada0e04be540aa32a8acbae3d15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/cornerFence/bolts.mat
+  uploadId: 860064

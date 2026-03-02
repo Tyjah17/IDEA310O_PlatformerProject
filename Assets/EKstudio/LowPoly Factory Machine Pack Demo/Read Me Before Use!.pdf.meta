@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25df353d33b4b1e00b803b4eaad3c215a8d7196acede54884b6bc41cb6d94f28
-size 389
+fileFormatVersion: 2
+guid: c64aca2ec1ac00148af4943b8c37d500
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Read Me Before Use!.pdf
+  uploadId: 668440

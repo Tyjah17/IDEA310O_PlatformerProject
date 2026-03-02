@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:728d9f70e799dfa051ca3a8754e8fa17fbbf5665128c01e6d4b7014adee9a6e1
-size 397
+fileFormatVersion: 2
+guid: 4000a887f4c373449979836411f557b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/box/box_long_flat/box_long_flat_sticker.mat
+  uploadId: 860064

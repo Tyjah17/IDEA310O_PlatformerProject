@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:981f1528d4cff9b42a61fcacedb32dc65d116a3eb86106c4a3938296c5bbd06b
-size 397
+fileFormatVersion: 2
+guid: dd89cf5b9246416f84610a006f916af7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  uploadId: 860064

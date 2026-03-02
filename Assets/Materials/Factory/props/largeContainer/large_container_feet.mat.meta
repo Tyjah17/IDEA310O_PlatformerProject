@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df3675da047fb736f7ed0c0b7c3b2afe948031d987398ccb82c6cf71626de4b5
-size 393
+fileFormatVersion: 2
+guid: 496c2444702e7f945a5efc749468abdb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/largeContainer/large_container_feet.mat
+  uploadId: 860064

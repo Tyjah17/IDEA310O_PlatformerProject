@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b551068385c7310eab50a772fcbe429c3cd786b1277e228dedc786d7e3aa6bb
-size 439
+fileFormatVersion: 2
+guid: 85a8f6f8dca77df4e9c05f21b5e8ed87
+timeCreated: 1490441739
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD3.prefab
+  uploadId: 642814

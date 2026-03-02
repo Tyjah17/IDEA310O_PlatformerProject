@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6fb993952e8722c69efe0ab8793320e86476bfe05570086ccd33fd63e2275210
-size 394
+fileFormatVersion: 2
+guid: d5e620ba8ae388440bd7e0547052ac1d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73764
+  packageName: Simple Gems and Items Ultimate Animated Customizable Pack
+  packageVersion: 1.3
+  assetPath: Assets/BTM_Assets/BTM_Items_Gems/Prefabs/GreenPill.prefab
+  uploadId: 739389

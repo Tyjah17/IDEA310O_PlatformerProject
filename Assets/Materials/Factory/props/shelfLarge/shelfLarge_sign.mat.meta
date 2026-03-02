@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:49a7655a2f5ec0390a040fea2b6f4fae74a4ac0576af9ad86f7b5254f937137f
-size 384
+fileFormatVersion: 2
+guid: a51a09bc3ee1a124d82b8deb6b3bf997
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/shelfLarge/shelfLarge_sign.mat
+  uploadId: 860064

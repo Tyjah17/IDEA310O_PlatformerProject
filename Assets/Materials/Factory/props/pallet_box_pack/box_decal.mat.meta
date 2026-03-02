@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed16942cbb0537fd9caebc1b50c9b920e377ecad1cf70ed8660e00a9c7541cbf
-size 383
+fileFormatVersion: 2
+guid: 8bfa2d8e43d8adb42902429b79bab1ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/pallet_box_pack/box_decal.mat
+  uploadId: 860064

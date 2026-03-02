@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb7270986a31d747cd0197ea667d645c7a1e4b46f1b2f61d5c465fdb0c6a6a55
-size 1516
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: aluminium_brushed_top
+  m_Shader: {fileID: -6465566751694194690, guid: c4a2d9f20669c5e4b8664a7fba479635, type: 3}
+  m_Parent: {fileID: 2100000, guid: 381b1189a2b537a43ab6e7f6fee5355e, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AO_Strength: 0.733
+    - _CONTRAST: 2.06
+    - _Metal_Strength: 0.837
+    - _Normal_Strength: 0.88
+    - _Power: 0.249
+    - _SATURATE: 0.27
+    - _Smoothness_Strength: 0.11
+    m_Colors:
+    - _Dirt_Color_01: {r: 0.8867924, g: 0.8867924, b: 0.8867924, a: 0}
+    - _Dirt_Color_02: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &6442266188292867106
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10

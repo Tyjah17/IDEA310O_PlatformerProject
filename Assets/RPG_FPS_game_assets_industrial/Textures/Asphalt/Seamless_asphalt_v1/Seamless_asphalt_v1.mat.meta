@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35613259140197a87c12639d52d7707be8234c53d308cf47ee94e8532f3cd33f
-size 461
+fileFormatVersion: 2
+guid: 999517f045d65924db469ec2a4a5c833
+timeCreated: 1488819854
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Seamless_asphalt_v1/Seamless_asphalt_v1.mat
+  uploadId: 642814

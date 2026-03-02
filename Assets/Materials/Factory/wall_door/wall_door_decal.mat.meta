@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9aeed1c4d611693c60f10973b2401387cafbb997cf5b8816b2afc345a5caef75
-size 377
+fileFormatVersion: 2
+guid: d6ed4bfddaac9a54687ecdb05c8bb482
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/wall_door/wall_door_decal.mat
+  uploadId: 860064

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1728ced87430fe16797b1cf5e9d03c9ce964ee426d0183a924c2fe0b15d69472
-size 451
+fileFormatVersion: 2
+guid: ef1322c95cfa99b408edac9ec0a4548e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/StateHandling/UI_StateTracker.cs
+  uploadId: 860064

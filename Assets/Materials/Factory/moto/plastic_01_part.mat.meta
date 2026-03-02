@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5e51881e16727c88c95e8b2c2716b0d5f9339abbae28184594b4034fd5b1b88
-size 372
+fileFormatVersion: 2
+guid: 4ad0e87d08ddbe34eb1699fe4a6d1ca0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/moto/plastic_01_part.mat
+  uploadId: 860064

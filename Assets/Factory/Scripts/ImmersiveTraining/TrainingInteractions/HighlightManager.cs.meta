@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6314c7f44f8560d2df292913bf3ab8bb7d13e011925f1b6f3077f326ff2ff8ee
-size 276
+fileFormatVersion: 2
+guid: 5851f652bdf71ff4997c1e269b4f37ae
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/TrainingInteractions/HighlightManager.cs
+  uploadId: 860064

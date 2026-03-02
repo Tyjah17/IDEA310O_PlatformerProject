@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:733557c3668240853a426ea3043862e1b2254bebd7b630353cd07eed3b28ca69
-size 460
+fileFormatVersion: 2
+guid: 8d81f9b16a9135446b5451caa37570ee
+timeCreated: 1490431820
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2.mat
+  uploadId: 642814

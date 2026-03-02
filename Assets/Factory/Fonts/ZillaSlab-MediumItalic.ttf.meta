@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed1cab70e500454ed3b361fddd46f7a66b91e0f37b93400c901e7c9339edd67b
-size 657
+fileFormatVersion: 2
+guid: 53747f503e48db245a5fa247f063eeb0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zilla Slab
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Fonts/ZillaSlab-MediumItalic.ttf
+  uploadId: 860064

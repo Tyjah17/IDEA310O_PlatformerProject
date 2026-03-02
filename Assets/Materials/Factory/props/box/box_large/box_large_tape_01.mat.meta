@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc41ba083cdfe8597b1d57639aad1b776e18d830da2e0cf9936ecdcfd567b02c
-size 389
+fileFormatVersion: 2
+guid: 9f3210c955384c349ac83fb2cb9e1891
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/box/box_large/box_large_tape_01.mat
+  uploadId: 860064

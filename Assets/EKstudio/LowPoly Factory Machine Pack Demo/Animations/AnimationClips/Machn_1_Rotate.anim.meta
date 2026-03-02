@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7f5e898e67381ac0a5f9e3464a1720e5864b5048d61f9c3c14772001b02084f
-size 444
+fileFormatVersion: 2
+guid: 24c9495ff98b28a45908f20055df6e2e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272637
+  packageName: Low Poly Factory Machine Pack Demo
+  packageVersion: 1.0
+  assetPath: Assets/EKstudio/LowPoly Factory Machine Pack Demo/Animations/AnimationClips/Machn_1_Rotate.anim
+  uploadId: 668440

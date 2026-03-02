@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:145e5c07515131ea54a52c6ef7e53f80b4ab665e2edb447164145eb3bd212b53
-size 418
+fileFormatVersion: 2
+guid: 96de908384869cd409c75efa351d5edf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+  uploadId: 860064

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d766fe91439963d23d2dbb643404ce3926e2f02c86113246383f7fe9693aa25
-size 454
+fileFormatVersion: 2
+guid: 59840616747fcff4cbca8a31874bd11d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/ImmersiveTraining/Management/IMessageForModalPanel.cs
+  uploadId: 860064

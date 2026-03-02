@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b446b557348fb480f702dba1b37a403bffbdfd210cbb2c96c9885402d811c86
-size 469
+fileFormatVersion: 2
+guid: 99914c1bbcbb9244d8d61fe025c942d0
+timeCreated: 1490439561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Pipes_set_v1_tile_d2.prefab
+  uploadId: 642814

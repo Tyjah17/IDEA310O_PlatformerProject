@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c1fc2e66d37acde53ec41a4c402d4ca67085d6c5232e4be3536ae34e4cc94de
-size 384
+fileFormatVersion: 2
+guid: 65accc40c88806e498b21f4baf069e93
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Materials/props/cornerFence/cornerFence_02.mat
+  uploadId: 860064

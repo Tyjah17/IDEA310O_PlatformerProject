@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6267d4402b32b59e9e0572ee0f9cef2f3d433cf42cf2c969752d378344d5b57f
-size 373
+fileFormatVersion: 2
+guid: fba884e76efed1e4dbc4bfdd6848b0ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Animations/UI/IdleNotification.anim
+  uploadId: 860064

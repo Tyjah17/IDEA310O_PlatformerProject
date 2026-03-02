@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b86ec730c8de3b5ec812c56e42ca0bdac90e7f00c7629db35abdcff4e6fe19f4
-size 470
+fileFormatVersion: 2
+guid: 9d41c32f719dc4b47bd0cbe39860bdae
+timeCreated: 1490432159
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v2/Source/Concrete_fence_v2.mat
+  uploadId: 642814

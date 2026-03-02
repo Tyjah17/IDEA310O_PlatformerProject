@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6a7e82c0417ef153547a4c6b2edd64a9f5183d53aaa04677bf233e039fe7b0f
-size 465
+fileFormatVersion: 2
+guid: 4d4b2f88cea09284f84181568075554b
+timeCreated: 1505881366
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Other_props/Support_set/Support_set_v1/Source/Support_set_v1.mat
+  uploadId: 642814

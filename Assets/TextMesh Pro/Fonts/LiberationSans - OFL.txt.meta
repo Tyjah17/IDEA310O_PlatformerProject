@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11e47daea10b20014776489e98371455e20cc159f2d77ab72e60d1283406c79b
-size 372
+fileFormatVersion: 2
+guid: 6e59c59b81ab47f9b6ec5781fa725d2c
+timeCreated: 1484171296
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+  uploadId: 860064

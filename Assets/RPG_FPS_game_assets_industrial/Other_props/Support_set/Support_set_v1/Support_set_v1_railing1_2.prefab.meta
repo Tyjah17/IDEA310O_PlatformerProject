@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71b5c37f41e5bec28f5c06b6fccf7d2749b2a517af5ae99c0226863d4a69e3db
-size 472
+fileFormatVersion: 2
+guid: d4002269274892248a1215f661fe25c9
+timeCreated: 1505887985
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101429
+  packageName: RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+  packageVersion: 3.0
+  assetPath: Assets/RPG_FPS_game_assets_industrial/Other_props/Support_set/Support_set_v1/Support_set_v1_railing1_2.prefab
+  uploadId: 642814

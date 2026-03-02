@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f57a08bb1baf7a937d07c021d643641d771a66660fd1d605b7a6f487ef8a6c7
-size 572
+using ImmersiveTraining.Management;
+using UnityEngine;
+
+namespace ImmersiveTraining.TrainingInteractions
+{
+    [RequireComponent(typeof(AudioSource))]
+    public class PlaySoundOnTrainingStepComplete : MonoBehaviour
+    {
+        private AudioSource _audioSource;
+    
+        void Start()
+        {
+            _audioSource = GetComponent<AudioSource>();
+            EventManager.StartListening(EventTypes.TRAINING_STATE_CRITERIA_REACHED, PlaySound);
+        }
+
+        private void PlaySound(GameObject arg0)
+        {
+            _audioSource.Play();
+        }
+    }
+}

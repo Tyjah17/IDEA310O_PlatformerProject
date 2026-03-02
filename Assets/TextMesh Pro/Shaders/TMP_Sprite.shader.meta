@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:476e72f836af3832a366a79f3ef23e6e78159f6e3efe2febdffc49a40786d4ed
-size 392
+fileFormatVersion: 2
+guid: cf81c85f95fe47e1a27f6ae460cf182c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+  uploadId: 860064

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c02c3ff9b3be152c98f30b394aa53ce6b090ae5a1131f7e2ecf49ab3cd428c8
-size 360
+fileFormatVersion: 2
+guid: 142a4fe79ac27e24087efd9412d812a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344832
+  packageName: Factory Training
+  packageVersion: 1.0
+  assetPath: Assets/Shaders/RT_display.mat
+  uploadId: 860064
