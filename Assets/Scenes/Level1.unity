@@ -470,6 +470,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 433620197}
     m_Modifications:
+    - target: {fileID: 3097314635019376126, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4188824725323057131, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
       propertyPath: m_LocalPosition.x
       value: 40.940002
@@ -509,6 +513,14 @@ PrefabInstance:
     - target: {fileID: 4188824725323057131, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036627283773339276, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5744041205939448935, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
+      propertyPath: m_Intensity
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8946530234153076570, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
       propertyPath: m_Name
@@ -639,6 +651,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1330847845621994375, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: bd8dc96a2b22a17438ef9e6999626618, type: 2}
     - target: {fileID: 4579791631835801887, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
       propertyPath: m_Name
       value: ConveyorJumpLeft
@@ -758,7 +774,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3c9e253118986cb4f8200875792cc3d6, type: 2}
+  - {fileID: 2100000, guid: bd8dc96a2b22a17438ef9e6999626618, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1417,6 +1433,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1330847845621994375, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: bd8dc96a2b22a17438ef9e6999626618, type: 2}
     - target: {fileID: 2380353870020948591, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
       propertyPath: speed
       value: -2
@@ -1478,6 +1498,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1330847845621994375, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: bd8dc96a2b22a17438ef9e6999626618, type: 2}
     - target: {fileID: 4579791631835801887, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
       propertyPath: m_Name
       value: ConveyorJumpLeft (1)
@@ -1775,7 +1799,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3c9e253118986cb4f8200875792cc3d6, type: 2}
+  - {fileID: 2100000, guid: bd8dc96a2b22a17438ef9e6999626618, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1887,7 +1911,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3c9e253118986cb4f8200875792cc3d6, type: 2}
+  - {fileID: 2100000, guid: bd8dc96a2b22a17438ef9e6999626618, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1942,6 +1966,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1330847845621994375, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: bd8dc96a2b22a17438ef9e6999626618, type: 2}
     - target: {fileID: 2380353870020948591, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
       propertyPath: speed
       value: -2
@@ -2194,6 +2222,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 433620197}
     m_Modifications:
+    - target: {fileID: 3097314635019376126, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4188824725323057131, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
       propertyPath: m_LocalPosition.x
       value: 24.94
@@ -2234,12 +2266,32 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4799617660104207176, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 5036627283773339276, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
       propertyPath: m_Range
       value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 5036627283773339276, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036627283773339276, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
       propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5744041205939448935, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6926092076158820789, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229614643005841751, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
+      propertyPath: m_Intensity
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8946530234153076570, guid: 4787bfc6db645fa4e97a65ed293e5524, type: 3}
@@ -3161,9 +3213,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1499516052951979401, guid: 09a4628c53481c64190394fbb52e1cda, type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3932951021572026427, guid: 09a4628c53481c64190394fbb52e1cda, type: 3}
       propertyPath: m_Name
       value: Ceiling
+      objectReference: {fileID: 0}
+    - target: {fileID: 6698474451228845187, guid: 09a4628c53481c64190394fbb52e1cda, type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741733835831831506, guid: 09a4628c53481c64190394fbb52e1cda, type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7840177414945903491, guid: 09a4628c53481c64190394fbb52e1cda, type: 3}
+      propertyPath: m_Intensity
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
