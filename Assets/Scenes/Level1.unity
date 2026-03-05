@@ -655,6 +655,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: bd8dc96a2b22a17438ef9e6999626618, type: 2}
+    - target: {fileID: 2380353870020948591, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
+      propertyPath: speed
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4579791631835801887, guid: 1e18ea6e1161cea4494d2eead81ef162, type: 3}
       propertyPath: m_Name
       value: ConveyorJumpLeft
@@ -1157,6 +1161,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 974238578668270714, guid: c708a3b79cd542b42bbfedb17e213bc1, type: 3}
       propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 974238578668270715, guid: c708a3b79cd542b42bbfedb17e213bc1, type: 3}
+      propertyPath: GroundLayers.m_Bits
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2119775930974504096, guid: c708a3b79cd542b42bbfedb17e213bc1, type: 3}

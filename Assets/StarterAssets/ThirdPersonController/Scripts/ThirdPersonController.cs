@@ -87,6 +87,11 @@ namespace StarterAssets
         private float _verticalVelocity;
         private float _terminalVelocity = 53.0f;
 
+        // FAN SUPPORT
+        private bool _fanActive = false;
+        private float _fanTargetUpSpeed = 0f;
+        private float _fanAccel = 0f;
+
         // timeout deltatime
         private float _jumpTimeoutDelta;
         private float _fallTimeoutDelta;
@@ -294,7 +299,7 @@ namespace StarterAssets
                 }
 
                 // stop our velocity dropping infinitely when grounded
-                if (_verticalVelocity < 0.0f)
+                if (_verticalVelocity < 0.0f && !_fanActive)
                 {
                     _verticalVelocity = -2f;
                 }
@@ -342,9 +347,17 @@ namespace StarterAssets
             }
 
             // apply gravity over time if under terminal (multiply by delta time twice to linearly speed up over time)
-            if (_verticalVelocity < _terminalVelocity)
+            if (!_fanActive && _verticalVelocity < _terminalVelocity)
             {
                 _verticalVelocity += Gravity * Time.deltaTime;
+            }
+            if (_fanActive)
+            {
+                _verticalVelocity = Mathf.MoveTowards(
+                    _verticalVelocity,
+                    _fanTargetUpSpeed,
+                    _fanAccel * Time.deltaTime
+                );
             }
         }
 
@@ -387,6 +400,18 @@ namespace StarterAssets
             {
                 AudioSource.PlayClipAtPoint(LandingAudioClip, transform.TransformPoint(_controller.center), FootstepAudioVolume);
             }
+        }
+
+        public void SetFan(float targetUpSpeed, float accel)
+        {
+            _fanActive = true;
+            _fanTargetUpSpeed = targetUpSpeed;
+            _fanAccel = accel;
+        }
+
+        public void ClearFan()
+        {
+            _fanActive = false;
         }
     }
 }

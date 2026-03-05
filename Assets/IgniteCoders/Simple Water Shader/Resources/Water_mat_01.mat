@@ -24,12 +24,20 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _BaseColor: {r: 0.024959564, g: 1, b: 0, a: 1}
-    - _Color: {r: 0.024959564, g: 1, b: 0, a: 1}
+    - _BaseColor: {r: 0.19565526, g: 0.23584908, b: 0.19468674, a: 1}
+    - _Color: {r: 0.19565526, g: 0.23584908, b: 0.19468674, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &3372383788877711359
