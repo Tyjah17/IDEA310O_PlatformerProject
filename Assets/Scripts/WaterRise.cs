@@ -2,15 +2,14 @@ using UnityEngine;
 
 public class WaterRise : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public float riseSpeed = 0.5f;   // how fast the water rises
+    public float maxHeight = 20f;    // optional limit
 
-    // Update is called once per frame
     void Update()
     {
-        
+        if (transform.position.y < maxHeight)
+        {
+            transform.position += Vector3.up * riseSpeed * Time.deltaTime;
+        }
     }
 }
