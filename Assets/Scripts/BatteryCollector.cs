@@ -18,7 +18,19 @@ public class BatteryCollector : MonoBehaviour
 
             if (batteriesCollected >= BattsPerLvl)
             {
-                SceneManager.LoadScene("Menu");
+                int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+                int totalScenes = SceneManager.sceneCountInBuildSettings;
+
+                // If this is the last scene, go to menu
+                if (currentSceneIndex == totalScenes - 1)
+                {
+                    SceneManager.LoadScene("Menu");
+                }
+                else
+                {
+                    // Otherwise load next level
+                    SceneManager.LoadScene(currentSceneIndex + 1);
+                }
             }
         }
     }
