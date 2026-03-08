@@ -1664,7 +1664,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -2410,6 +2410,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
+      propertyPath: InitialModule.maxNumParticles
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
       propertyPath: InitialModule.startSpeed.scalar
       value: 16.377918
       objectReference: {fileID: 0}
@@ -2929,6 +2933,10 @@ PrefabInstance:
     - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
       propertyPath: ForceModule.inWorldSpace
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
+      propertyPath: InitialModule.maxNumParticles
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
       propertyPath: InitialModule.startSpeed.scalar
@@ -5592,6 +5600,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
+      propertyPath: InitialModule.maxNumParticles
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
       propertyPath: InitialModule.startSpeed.scalar
       value: 16.377918
       objectReference: {fileID: 0}
@@ -5822,6 +5834,10 @@ PrefabInstance:
     - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
       propertyPath: ForceModule.inWorldSpace
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
+      propertyPath: InitialModule.maxNumParticles
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
       propertyPath: InitialModule.startSpeed.scalar
@@ -6483,6 +6499,10 @@ PrefabInstance:
       propertyPath: m_Intensity
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7840177414945903491, guid: 09a4628c53481c64190394fbb52e1cda, type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7056,6 +7076,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
+      propertyPath: InitialModule.maxNumParticles
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1024713281444550218, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
       propertyPath: InitialModule.startSpeed.scalar
       value: 16.377918
       objectReference: {fileID: 0}
@@ -7507,9 +7531,9 @@ SceneRoots:
   - {fileID: 9080609697181389271}
   - {fileID: 798569276}
   - {fileID: 2425157660748039137}
+  - {fileID: 1700672492}
   - {fileID: 652598958}
   - {fileID: 1717433858}
-  - {fileID: 1700672492}
   - {fileID: 4096698563711112507}
   - {fileID: 1264030124}
   - {fileID: 842775994}
