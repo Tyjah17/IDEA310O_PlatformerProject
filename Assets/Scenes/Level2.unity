@@ -622,6 +622,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BatteryCollector
   BatteryText: {fileID: 1159269469}
   BattsPerLvl: 5
+  pickupSound: {fileID: 8300000, guid: 481a1dd894a02844189ee2dad779e697, type: 3}
 --- !u!1 &157984972 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2788356882097435426, guid: d9ef6919523095c42a736e7cbdb0dbfa, type: 3}
