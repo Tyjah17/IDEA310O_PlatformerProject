@@ -87,6 +87,10 @@ namespace StarterAssets
         private float _verticalVelocity;
         private float _terminalVelocity = 53.0f;
 
+        // CONVEYOR SUPPORT
+        private bool _conveyorActive = false;
+        private Vector3 _conveyorVelocity = Vector3.zero;
+
         // FAN SUPPORT
         private bool _fanActive = false;
         private float _fanTargetUpSpeed = 0f;
@@ -275,6 +279,11 @@ namespace StarterAssets
             // move the player
             _controller.Move(targetDirection.normalized * (_speed * Time.deltaTime) +
                              new Vector3(0.0f, _verticalVelocity, 0.0f) * Time.deltaTime);
+            // SEPARATE CONVEYOR PUSH
+            if (_conveyorActive)
+            {
+                _controller.Move(_conveyorVelocity * Time.deltaTime);
+            }
 
             // update animator if using character
             if (_hasAnimator)
@@ -400,6 +409,18 @@ namespace StarterAssets
             {
                 AudioSource.PlayClipAtPoint(LandingAudioClip, transform.TransformPoint(_controller.center), FootstepAudioVolume);
             }
+        }
+
+        public void SetConveyor(Vector3 conveyorVelocity)
+        {
+            _conveyorActive = true;
+            _conveyorVelocity = conveyorVelocity;
+        }
+
+        public void ClearConveyor()
+        {
+            _conveyorActive = false;
+            _conveyorVelocity = Vector3.zero;
         }
 
         public void SetFan(float targetUpSpeed, float accel)

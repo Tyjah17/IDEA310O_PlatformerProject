@@ -1,15 +1,16 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using StarterAssets;
 
 public class PlayerConveyor : MonoBehaviour
 {
-    [SerializeField] private float speed, conveyorSpeed;
-    [SerializeField] private Vector3 direction;
-    [SerializeField] private List<GameObject> onBelt;
+    [SerializeField] private float speed = 2f;
+    [SerializeField] private float conveyorSpeed = 1f;
+    [SerializeField] private Vector3 direction = Vector3.forward;
+    [SerializeField] private List<GameObject> onBelt = new List<GameObject>();
+
     private Material material;
 
-    // Start is called before the first frame update
     void Start()
     {
         material = GetComponent<MeshRenderer>().material;
@@ -20,15 +21,27 @@ public class PlayerConveyor : MonoBehaviour
         material.mainTextureOffset += new Vector2(0, 1) * conveyorSpeed * Time.deltaTime;
     }
 
-    void FixedUpdate()
+    private void FixedUpdate()
     {
-        for (int i = 0; i < onBelt.Count; i++)
-        {
-            CharacterController cc = onBelt[i].GetComponent<CharacterController>();
+        Vector3 conveyorVelocity = direction.normalized * speed;
 
-            if (cc != null)
+        for (int i = onBelt.Count - 1; i >= 0; i--)
+        {
+            if (onBelt[i] == null)
             {
-                cc.Move(speed * direction.normalized * Time.fixedDeltaTime);
+                onBelt.RemoveAt(i);
+                continue;
+            }
+
+            ThirdPersonController controller = onBelt[i].GetComponent<ThirdPersonController>();
+
+            if (controller != null)
+            {
+                controller.SetConveyor(conveyorVelocity);
+            }
+            else
+            {
+                onBelt.RemoveAt(i);
             }
         }
     }
@@ -49,10 +62,10 @@ public class PlayerConveyor : MonoBehaviour
 
         onBelt.Remove(other.gameObject);
 
-        var receiver = other.GetComponentInParent<ConveyorReceiver>();
-        if (receiver != null)
+        ThirdPersonController controller = other.GetComponent<ThirdPersonController>();
+        if (controller != null)
         {
-            receiver.conveyorVelocity = Vector3.zero;
+            controller.ClearConveyor();
         }
     }
-}
+}wD
