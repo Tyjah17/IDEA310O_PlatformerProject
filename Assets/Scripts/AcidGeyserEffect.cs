@@ -1,57 +1,46 @@
 using UnityEngine;
 using System.Collections;
 
-public class AcidGeyserEffect : MonoBehaviour
-{
-    [Header("References")]
+public class AcidGeyserEffect : MonoBehaviour {
     public ParticleSystem acidParticles;
 
-    // This is the invisible trigger volume that kills the player
+    // this is the invisible trigger volume that kills the player
     public Collider damageTrigger;
-
-    [Header("Timing")]
     public float offTime = 2f;
     public float onTime = 3f;
 
-    [Header("State (read-only)")]
     public bool isActive { get; private set; }
 
-    private void Awake()
-    {
-        // Auto-find if you forgot to drag it
+    private void Awake() {
+        // auto-find if you forgot to drag it
         if (acidParticles == null)
             acidParticles = GetComponentInChildren<ParticleSystem>();
 
         if (damageTrigger == null)
             damageTrigger = GetComponent<Collider>();
 
-        // Make sure the trigger starts OFF
+        // make sure the trigger starts OFF
         SetActiveState(false);
     }
 
-    private void Start()
-    {
+    private void Start() {
         if (acidParticles == null)
             Debug.LogError("[AcidGeyserEffect] acidParticles is not assigned/found.");
 
         if (damageTrigger == null)
             Debug.LogError("[AcidGeyserEffect] damageTrigger is not assigned/found.");
 
-        // If particles exist, make sure they aren't looping/auto-playing
-        if (acidParticles != null)
-        {
+        // if particles exist, make sure they aren't looping/auto-playing
+        if (acidParticles != null) {
             var main = acidParticles.main;
             main.loop = false;
             main.playOnAwake = false;
         }
-
         StartCoroutine(GeyserRoutine());
     }
 
-    private IEnumerator GeyserRoutine()
-    {
-        while (true)
-        {
+    private IEnumerator GeyserRoutine() {
+        while (true) {
             // OFF
             SetActiveState(false);
             Debug.Log("[AcidGeyserEffect] OFF");
@@ -69,10 +58,8 @@ public class AcidGeyserEffect : MonoBehaviour
         }
     }
 
-    private void SetActiveState(bool active)
-    {
+    private void SetActiveState(bool active) {
         isActive = active;
-
         if (damageTrigger != null)
             damageTrigger.enabled = active;
     }

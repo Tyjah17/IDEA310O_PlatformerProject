@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 652158813320281748}
   - component: {fileID: 3223408918339744744}
   - component: {fileID: 6440711468807109010}
-  - component: {fileID: 7033156546123530995}
+  - component: {fileID: 6355165586472659816}
   m_Layer: 5
   m_Name: GameHUD
   m_TagString: Untagged
@@ -103,7 +103,7 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &7033156546123530995
+--- !u!114 &6355165586472659816
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -112,7 +112,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2199010099699435904}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8d661910569adb14eb01e808a4bb642b, type: 3}
+  m_Script: {fileID: 11500000, guid: de698b12190ccf842941b5bdc02ca50d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EscapeToMenu
 --- !u!1 &3281754513243896893
